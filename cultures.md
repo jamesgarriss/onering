@@ -1,5 +1,7 @@
 # Cultures
 
+A hero's culture profoundly defines who he is, including his customs and traditions.
+
 ## Bardings
 
 The inhabitants of Dale.  Their leader is Bard the Bowman.
