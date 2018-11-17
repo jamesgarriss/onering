@@ -12,6 +12,9 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 6. Record the basic attributes.
 7. Record the favoured skill.
 8. Select two distinctive features. 
+9. Choose a name.
+10. Record [language(s)](languages.md).
+11. Choose an age.
 9. Choose the favoured attributes.
 10. Spend previous experience and buy skill levels.
 11. Choose a calling.
@@ -20,5 +23,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 14. Prioritise the scores for valour and wisdom (choosing, accordingly, the starting Reward or Virtue).
 15. Select starting gear.
 16. Record fatigue.
+
+What about:  languages, standard of living, description, starting skill scores, traits,
 
 [Attributes](attributes.md) - The aptitudes and nature capabilities of a hero.
