@@ -6,10 +6,11 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 
 1. Chose a [culture](cultures.md).
 2. Record the [cultural blessing](cultural-blessing.md).  
-3. Record the [skill list](skill-list.md). 
-4. Select two [specialities](specialities.md).
-5. Choose a background. 
-6. Record the basic attributes.
+3. Record the [common skills](common-skill-list.md). 
+4. Record the [weapon skills](weapon-skill-list.md).
+5. Select two [specialities](specialities.md).
+6. Choose a background. 
+7. Record the basic attributes.
 7. Record the favoured skill.
 8. Select two distinctive features. 
 9. Choose a name.
@@ -24,6 +25,6 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 15. Select starting gear.
 16. Record fatigue.
 
-What about:  languages, standard of living, description, starting skill scores, traits,
+What about:  languages, standard of living, description, traits,
 
 [Attributes](attributes.md) - The aptitudes and nature capabilities of a hero.
