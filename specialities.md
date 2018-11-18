@@ -14,8 +14,8 @@ Specialities represent the knacks, insights and 'craft secrets' handed down by d
 * Gardener
 * Herb-lore - Used to identify a spice, a plant with curative properties or a blend of pipe-weed, herb-lore may prove helpful when cooking, or when preparing a healing salve. 
 * Leechcraft - Skilled in the healing of wounds and sickness.
-* Mountaineer - Familiar with the difficulties often encountered when crossing mountain passes and with the ways of overcoming them.
 * Minstrelsy - Trained in the arts of singing and playing one or more musical instruments.
+* Mountaineer - Familiar with the difficulties often encountered when crossing mountain passes and with the ways of overcoming them.
 * Old Lore - Learned in the traditions and the rumour of bygone days.
 * Region-lore - Knowledge of an area used when planning to traverse it as part of your journey.
 * Rhymes of Lore - Rhymes of Lore are brief compositions in verse created by many cultures to remember significant facts from ancient history. Your knowledge of them can supplement a test of Lore, but is used especially in conjunction with any Custom skill (Courtesy, Song or Riddle). Scholars may credit much of their knowledge to rhymes.
@@ -25,4 +25,6 @@ Specialities represent the knacks, insights and 'craft secrets' handed down by d
 * Stone-craft
 * Story-telling
 * Swimming
-* Woodwright
+* Trading
+* Tunnelling - Accustomed to the difficulties of moving in passages dug under the earth.
+* Woodwright - The art of cutting and carving wood deftly to create useful tools or beautiful thing.
