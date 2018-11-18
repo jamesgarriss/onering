@@ -2,6 +2,8 @@
 
 Specialities represent the knacks, insights and 'craft secrets' handed down by different cultures over the years, giving heroes raised in those cultures an edge in given trades or activities.  Specialities are chosen along with a hero’s culture.
 
+## Definitions
+
 * Beast-lore
 * Boating
 * Burglary - Includes pickpocketing, lock picking and, in general, any shadowy way to get hold of the possessions of others or access protected areas. TreasureHunters are generally skilled burglars.
@@ -28,3 +30,27 @@ Specialities represent the knacks, insights and 'craft secrets' handed down by d
 * Trading
 * Tunnelling - Accustomed to the difficulties of moving in passages dug under the earth.
 * Woodwright - The art of cutting and carving wood deftly to create useful tools or beautiful thing.
+
+## Bardings
+
+Choose two from: Boating, Old lore, Smith-craft, Swimming, Trading, Woodwright
+
+## Beornings
+
+Choose two from: Anduin-lore, Beast-lore, Cooking,  Fishing, Mountaineer, Story-telling
+
+## Dwarves
+
+Choose two from: Fire-making, Smith-craft, Smoking, Stone-craft, Trading, Tunnelling
+
+## Elves
+
+Choose two from: Boating, Elven-lore, Fire-making, Mirkwood-lore, Swimming, Woodwright
+
+## Hobbits
+
+Choose two from: Cooking, Gardener, Herb-lore, Smoking,  Story-telling, Tunnelling
+
+## Woodmen
+
+Choose two from: Anduin-lore, Beast-lore, Fishing, Herb-lore, Leechcraft, Mirkwood-lore 
