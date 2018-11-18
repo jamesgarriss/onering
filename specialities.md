@@ -8,18 +8,17 @@ Specialities represent the knacks, insights and 'craft secrets' handed down by d
 * Cooking
 * Elven-lore - Preserves recollections of deeds and places lost to the Old lore of other races. Versed in the Ancient Tongue of the Elves beyond the Sea.
 * Enemy-lore - Select the race of enemies this Speciality applies to. This Trait gives you knowledge of the characteristics, habits, strengths and weaknesses of your chosen enemy. Warriors and hunters often owe their survival to such knowledge. Slayers invariably dedicate themselves to the destruction of an enemy.
-
 * Fire-making
 * Fishing
-* Folk-lore
+* Folk-lore - Possesses some knowledge of the many traditional customs, beliefs and stories of the various communities that compose the Free Peoples.  Wanderers generally pick up this Trait during their time on the road. 
 * Gardener
-* Herb-lore
-* Leechcraft
-* Mountaineer
-* Minstrelsy
-* Old Lore
-* Region-lore
-* Rhymes of Lore
+* Herb-lore - Used to identify a spice, a plant with curative properties or a blend of pipe-weed, herb-lore may prove helpful when cooking, or when preparing a healing salve. 
+* Leechcraft - Skilled in the healing of wounds and sickness.
+* Mountaineer - Familiar with the difficulties often encountered when crossing mountain passes and with the ways of overcoming them.
+* Minstrelsy - Trained in the arts of singing and playing one or more musical instruments.
+* Old Lore - Learned in the traditions and the rumour of bygone days.
+* Region-lore - Knowledge of an area used when planning to traverse it as part of your journey.
+* Rhymes of Lore - Rhymes of Lore are brief compositions in verse created by many cultures to remember significant facts from ancient history. Your knowledge of them can supplement a test of Lore, but is used especially in conjunction with any Custom skill (Courtesy, Song or Riddle). Scholars may credit much of their knowledge to rhymes.
 * Shadow-lore
 * Smith-craft
 * Smoking
