@@ -2,6 +2,8 @@
 
 Specialities represent the knacks, insights and 'craft secrets' handed down by different cultures over the years, giving heroes raised in those cultures an edge in given trades or activities.  Specialities are chosen along with a hero’s culture.
 
+Specialities are type of trait.  Traits describe aspects of an hero’s build, temper and capabilities that under certain circumstances can give them an advantage. There are different uses for Traits, but all are governed by the same principle:  The description of the Trait is essential. In other words, it must be reasonably plausible for someone with the features or qualities described by the Trait to fare better under the circumstances than an individual without them.  Traits are unranked, and cannot be improved.
+
 ## Definitions
 
 * Beast-lore
