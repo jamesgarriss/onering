@@ -9,10 +9,11 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 3. Record the [common skills](common-skill-list.md). 
 4. Choose [weapon skills](weapon-skill-list.md).
 5. Select two [specialities](specialities.md).
-6. Choose (or create) a [background](background.md). 
-7. Record the basic attributes.
-7. Record the favoured skill.
-8. Select two distinctive features. 
+6. Choose (or create) a [background](background.md), which includes:
+  * A description
+  * The basic attributes.
+  * A favoured skill.
+  * Two distinctive features. 
 9. Choose a name.
 10. Record [language(s)](languages.md).
 11. Choose an age.
