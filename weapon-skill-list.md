@@ -33,3 +33,14 @@ Each hero chooses one weapon skill set:
 
 * Spears (C) 2, Sword 1, Dagger 1
 * Bow (F) 2, Sword 1, Dagger 1
+
+## Hobbits
+
+* Short Sword (C) 2, Bow 1, Dagger 1
+* Bow (F) 2, Short Sword 1, Dagger 1
+
+## Woodsmen
+
+* Bows (C) 2, Long-hafted axe 1, Dagger 1
+* Long-hafted axe 2, Spear 1, Dagger 1
+
