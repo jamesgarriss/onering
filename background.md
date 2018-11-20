@@ -28,9 +28,9 @@ Heroes already have one favored skill, based upon their culture.  At this point 
 
 ## Distinctive Features
 
-
-
 Distinctive features are type of trait.  Traits describe aspects of an hero’s build, temper and capabilities that under certain circumstances can give them an advantage. There are different uses for Traits, but all are governed by the same principle:  The description of the Trait is essential. In other words, it must be reasonably plausible for someone with the features or qualities described by the Trait to fare better under the circumstances than an individual without them.  Traits are unranked, and cannot be improved.
+
+The pre-generated backgrounds have distinctive features to choose from.  If you create your own background, you'll need to select two features that relate to it.
 
 ### Definitions
 
@@ -58,4 +58,25 @@ Distinctive features are type of trait.  Traits describe aspects of an hero’s 
 * Keen-eyed
 * Lordly
 * Merciful
+* Merry
+* Nimble
+* Patient
+* Proud
+* Quick of Hearing
+* Reckless
+* Robust
+* Secretive
+* Small
+* Steadfast
+* Stern
+* Suspicious
+* Swift
+* Tall
+* True-hearted
+* Trusty
+* Vengeful
+* Wary
+* Wilful
+* Wrathful
+
 
