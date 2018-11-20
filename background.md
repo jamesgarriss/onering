@@ -27,3 +27,35 @@ All heroes begin with 14 points to spread among the 3 basic attributes.  They sh
 Heroes already have one favored skill, based upon their culture.  At this point a second favored skill is chosen, one that is based upon their background.  Note that this does not add a new point into the skill, merely gives it favored status.
 
 ## Distinctive Features
+
+
+
+Distinctive features are type of trait.  Traits describe aspects of an hero’s build, temper and capabilities that under certain circumstances can give them an advantage. There are different uses for Traits, but all are governed by the same principle:  The description of the Trait is essential. In other words, it must be reasonably plausible for someone with the features or qualities described by the Trait to fare better under the circumstances than an individual without them.  Traits are unranked, and cannot be improved.
+
+### Definitions
+
+* Adventurous
+* Bold
+* Cautious
+* Clever
+* Cunning
+* Curious
+* Determined
+* Eager
+* Elusive
+* Energetic
+* Fair
+* Fair-spoken
+* Fierce
+* Forthright
+* Generous
+* Grim
+* Gruff
+* Hardened
+* Hardy
+* Honourable
+* Just
+* Keen-eyed
+* Lordly
+* Merciful
+
