@@ -25,6 +25,6 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 15. Select starting gear.
 16. Record fatigue.
 
-What about:  languages, standard of living, description, traits,
+What about:  languages, standard of living, description
 
 [Attributes](attributes.md) - The aptitudes and nature capabilities of a hero.
