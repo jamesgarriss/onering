@@ -2,7 +2,7 @@
 
 ## Description
 
-Background is a brief description of the hero's personality and some details about his formative years.  The background can be chosen from one of the many pre-generated backgrounds in the game (too many to list here), or it can be created from scratch.  Here are 3 examples:
+Background begins with a brief description of the hero's personality and some details about his formative years.  The background can be chosen from one of the many pre-generated backgrounds in the game (too many to list here), or it can be created from scratch.  Here are 3 examples:
 
 ### Beornings
 
@@ -20,7 +20,7 @@ You grew up peacefully in a farmhouse in the Marish, Eastfarthing, until somethi
 
 The basic attributes are Body, Heart, and Wit, which describe a hero's physical, spiritual, and mental profile.  Each attribute has a basic rating, determined by background, and a favored rating, found by adding a bonus.
 
-All heroes begin with 14 points to spread among the basic attributes.
+All heroes begin with 14 points to spread among the 3 basic attributes.  They should be prioritized in a manner that correlates with the description.  A healer, for example, would want more points in Heart.  A Dwarven trader would want more points in Body.  An Elvish envoy would want more points in Wits.
 
 ## Favored Skill
 
