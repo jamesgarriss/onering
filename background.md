@@ -34,16 +34,16 @@ The pre-generated backgrounds have distinctive features to choose from.  If you 
 
 ### Definitions
 
-* Adventurous
-* Bold
-* Cautious
-* Clever
-* Cunning
-* Curious
-* Determined
-* Eager
-* Elusive
-* Energetic
+* Adventurous - Attracted by new experiences and challenges, especially when they seem perilous.
+* Bold - Not easily daunted, readily placing yourself in danger.
+* Cautious - A careful approach to all your endeavours.
+* Clever - Ingenious and smart, quick to learn and able to make intuitive leaps.
+* Cunning - A sharp wit, ready for your advantage.
+* Curious - An inquisitive nature that is easily aroused by what is often not your concern.
+* Determined - Pursue goals relentlessly.
+* Eager - Pursue interests with excitement and impatience.
+* Elusive - Hard to find when you choose not be seen.
+* Energetic - Forceful, vital, and enthusiastic.
 * Fair
 * Fair-spoken
 * Fierce
