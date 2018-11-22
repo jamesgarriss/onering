@@ -44,14 +44,14 @@ The pre-generated backgrounds have distinctive features to choose from.  If you 
 * Eager - Pursue interests with excitement and impatience.
 * Elusive - Hard to find when you choose not be seen.
 * Energetic - Forceful, vital, and enthusiastic.
-* Fair
-* Fair-spoken
-* Fierce
-* Forthright
-* Generous
-* Grim
-* Gruff
-* Hardened
+* Fair - Considered beautiful by most people.
+* Fair-spoken - Pleasant and respectful speech and manners.
+* Fierce - Savage when provoked.
+* Forthright - Plain and direct speech.
+* Generous - Giving to the needy with an open hand.
+* Grim - Threatening countenance.
+* Gruff - Taciturn, sulry, and abrupt; little patience with others.
+* Hardened - The mettle of a seasoned adventurer.
 * Hardy
 * Honourable
 * Just
