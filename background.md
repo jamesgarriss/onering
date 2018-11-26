@@ -2,7 +2,7 @@
 
 ## Description
 
-Background begins with a brief description of the hero's personality and some details about his formative years.  The background can be chosen from one of the many pre-generated backgrounds in the game (too many to list here), or it can be created from scratch.  Here are 3 examples:
+A background begins with a brief description of the hero's personality and some details about his formative years.  The background can be chosen from one of the many pre-generated backgrounds in the game (too many to list here), or it can be created from scratch.  Here are 3 examples:
 
 ### Beornings
 
