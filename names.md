@@ -16,3 +16,16 @@ Dwarves - All Dwarves of Durin’s Folk receive a true name at birth that they d
 * Male - Borin, Hanar, Regin
 * Female - Dis, Hon, Mar
 
+Elves - The Wood-elves bear names fashioned in the Grey-elven language.
+* Male - Amras, Elladan, Galion
+* Female - Finduilas, Mirile, Nimrodel
+
+Hobbits - Hobbits names are composed by a first name and a family name. First names for boys are usually simple and short, with Hobbit girls being often given names of flowers or precious stones.  Family names seem to fall into three main categories:  Meaningless (Baggins, Boffin, Took), descriptive (Hornblower, Proudfoot), and geographical (Burrows, Hayward). 
+* Male - Dondinas, Hob, Milo, Sadoc
+* Female - Berylla, Lily, Peony, Ruby
+* Family - Banks, Brown, Noakes, Roper
+
+Woodmen - The Northmen, like Beornings, use bynames and nicknames.  It is a common practice among adventurers to keep the real name a secret, preferring to be known only by a nickname (the Bride, the Hound). 
+* Male - Alberic, Evoric, Imnachar
+* Female - Beranhild, Gelvira, Heva
+* Nicknames - the Bowman, the Healer, the Quick
