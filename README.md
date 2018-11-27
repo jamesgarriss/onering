@@ -18,7 +18,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 8. Choose a [name](names.md).
 9. Record [language(s)](languages.md).
 10. Choose an [age](age.md).
-11. Choose the favoured attributes.
+11. Choose the [favored attributes](favored-attributes.md).
 10. Spend previous experience and buy skill levels.
 11. Choose a calling.
 12. Choose favoured skills.
