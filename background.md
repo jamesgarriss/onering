@@ -4,15 +4,15 @@
 
 A background begins with a brief description of the hero's personality and some details about his formative years.  The background can be chosen from one of the many pre-generated backgrounds in the game (too many to list here), or it can be created from scratch.  Here are 3 examples:
 
-### Beornings
+### A Beorning Background
 
 Since the time your family joined Beorn’s folk you have been a runner, a messenger carrying news for your folk. In your hide shoes, you have countless times trodden the path that goes from the High Pass to the Old Ford, always welcomed by chieftains and families eager to hear your tidings. At times you have brought joy and merriment with news of victory, but also woe and distress with tales of war and defeat.
 
-### Dwarves
+### A Dwarvish Background
 
 Your grandfather never relented in his hunt for the Orcchief from Mount Gundabad who killed his wife. Leading you along dim underground passages, he told you much about the cruel ways of the servants of the Shadow, and how to fight them. His words scared you when you were young and haunted your dreams, but now that you have started down the road to adventure you begin to see the value of his advice.
 
-### Hobbits
+### A Hobbitish Background
 
 You grew up peacefully in a farmhouse in the Marish, Eastfarthing, until something Tookish stirred in your blood and overcame your respectability. It first happened on your way home one night, when you spotted some outlandish folk around a bright camp-fire. When you described them to your grandmother, she told you they were Dwarves, on their way to the Blue Mountains. From that night you started to shun well-trodden paths, hoping to meet other wayfarers secretly crossing the Shire. 
 
@@ -28,7 +28,7 @@ Heroes already have one favored skill, based upon their culture.  At this point 
 
 ## Distinctive Features
 
-Distinctive features are type of trait.  Traits describe aspects of an hero’s build, temper and capabilities that under certain circumstances can give them an advantage. There are different uses for Traits, but all are governed by the same principle:  The description of the Trait is essential. In other words, it must be reasonably plausible for someone with the features or qualities described by the Trait to fare better under the circumstances than an individual without them.  Traits are unranked, and cannot be improved.
+Distinctive features are type of trait.  Traits describe aspects of an hero’s build, temper and capabilities that under certain circumstances can give them an advantage. There are different uses for Traits, but all are governed by the same principle:  The description of the Trait is essential. In other words, it must be reasonably plausible for someone with the features or qualities described by the Trait to fare better under the circumstances than an individual without them.  Traits are unranked and cannot be improved.
 
 The pre-generated backgrounds have distinctive features to choose from.  If you create your own background, you'll need to select two features that relate to it.
 
@@ -52,31 +52,31 @@ The pre-generated backgrounds have distinctive features to choose from.  If you 
 * Grim - Threatening countenance.
 * Gruff - Taciturn, sulry, and abrupt; little patience with others.
 * Hardened - The mettle of a seasoned adventurer.
-* Hardy
-* Honourable
-* Just
-* Keen-eyed
-* Lordly
-* Merciful
-* Merry
+* Hardy - Able to withstand long hours of toil and travel far without rest.
+* Honourable - Abiding by a set of principles that treats others with respect, keeps your word, and bear yourself with dignity.
+* Just - Not easily deceived by appearances, and can usually tell right from wrong.
+* Keen-eyed - The keenness of your eyesight surpasses that of most folk.
+* Lordly - A dignified bearing that arouses feelings of reverence and respect.
+* Merciful - Quick to show forgiveness and pity.
+* Merry - Not easily discouraged. 
 * Nimble
-* Patient
-* Proud
+* Patient - Slow to lose your temper; can suffer fools, delays, and hardship without complaint. 
+* Proud - Holding your feats and achievements in high esteem.
 * Quick of Hearing
-* Reckless
-* Robust
-* Secretive
-* Small
-* Steadfast
-* Stern
+* Reckless - Not thinking about the consequences of your actions, daring to do things that others are afraid to even contemplate doing.
+* Robust - Blessed with vigorous health, and seldom suffer from ailments or diseases.
+* Secretive - Not easily sharing your thoughts; preferring to conceal your intentions.
+* Small - Half the height of a grown man; easily overlooked. This Trait is normally only available to Hobbits.
+* Steadfast - Firm in temperament and belief.
+* Stern - A severe nature.
 * Suspicious
-* Swift
+* Swift - Move swiftly, and are quick to take action.
 * Tall
-* True-hearted
-* Trusty
-* Vengeful
-* Wary
-* Wilful
-* Wrathful
+* True-hearted - Sincere and honest.
+* Trusty - Reliable and faithful.
+* Vengeful - Not forgeting slights and insults, not to mention betrayals.
+* Wary - Always mindful of your surroundings.
+* Wilful - Confidence in your own judgement makes you deaf to all counsel but your own.
+* Wrathful - Easily angered, and when seriously provoked you cannot contain your fury.
 
 
