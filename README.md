@@ -5,19 +5,20 @@
 A hero is a character who has abandoned their day-to-day activities in order to become an adventurer.  To create a hero:
 
 1. Chose a [culture](cultures.md).
-2. Record the [cultural blessing](cultural-blessing.md).  
-3. Record the [common skills](common-skill-list.md). 
-4. Choose [weapon skills](weapon-skill-list.md).
-5. Select two [specialities](specialities.md).
-6. Choose (or create) a [background](background.md), which includes:
+2. Record the [standard of living](standard-of-living.md).
+3. Record the [cultural blessing](cultural-blessing.md).  
+4. Record the [common skills](common-skill-list.md). 
+5. Choose [weapon skills](weapon-skill-list.md).
+6. Select two [specialities](specialities.md).
+7. Choose (or create) a [background](background.md), which includes:
    * A description
    * The basic attributes.
    * A favoured skill.
    * Two distinctive features. 
-9. Choose a name.
-10. Record [language(s)](languages.md).
-11. Choose an age.
-9. Choose the favoured attributes.
+8. Choose a name.
+9. Record [language(s)](languages.md).
+10. Choose an age.
+11. Choose the favoured attributes.
 10. Spend previous experience and buy skill levels.
 11. Choose a calling.
 12. Choose favoured skills.
@@ -26,6 +27,6 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 15. Select starting gear.
 16. Record fatigue.
 
-What about:  languages, standard of living, description
+What about:  standard of living, description
 
 [Attributes](attributes.md) - The aptitudes and nature capabilities of a hero.
