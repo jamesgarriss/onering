@@ -15,7 +15,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
    * The basic attributes.
    * A favoured skill.
    * Two distinctive features. 
-8. Choose a name.
+8. Choose a [name](names.md).
 9. Record [language(s)](languages.md).
 10. Choose an age.
 11. Choose the favoured attributes.
