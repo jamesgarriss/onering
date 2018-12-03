@@ -14,7 +14,7 @@ Players have 10 points to spend on raising their skills.  They can buy new skill
 
 If, for example, a player wanted to raise his hero's Hunting skill from level 1 to level 2, it would take 2 points.  If he wanted to raise it to level 3, it would take 3 more points (for a total of 5).
 
-## Weapon SKill Levels
+## Weapon Skill Levels
 
 * Level 1 = 2 point
 * Level 2 = 4 more points
