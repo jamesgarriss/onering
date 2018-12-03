@@ -4,6 +4,8 @@ Endurance and Hope are the fundamental resources that keep a character going.
 
 ## Endurance
 
+Endurance is the expression of a playerhero’s physical stamina and determination. It is reduced when a character is subjected to physical harm, stress and exhaustion.
+
 * Bardings = 22 + Heart
 * Beornings = 24 + Heart
 * Dwarves = 28 + Heart
@@ -12,6 +14,8 @@ Endurance and Hope are the fundamental resources that keep a character going.
 * Woodmen = 20 + Heart
 
 ## Hope
+
+A character’s Hope score defines the reserves of spiritual vigour that heroes draw upon when put in danger. Players can choose to spend a point of Hope to tap a player-hero’s energy reserves and possibly push him beyond his limits. 
 
 * Bardings = 8 + Heart 
 * Beornings = 8 + Heart 
