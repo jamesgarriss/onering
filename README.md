@@ -19,14 +19,14 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 9. Record [language(s)](languages.md).
 10. Choose an [age](age.md).
 11. Choose the [favored attributes](favored-attributes.md).
-10. Spend previous experience and buy skill levels.
-11. Choose a calling.
-12. Choose favoured skills.
-13. Calculate the scores for endurance and hope. 
-14. Prioritise the scores for valour and wisdom (choosing, accordingly, the starting Reward or Virtue).
-15. Select starting gear.
-16. Record fatigue.
+12. Spend previous experience and buy skill levels.
+13. Choose a calling.
+14. Choose favoured skills.
+15. Calculate the scores for endurance and hope. 
+16. Prioritise the scores for valour and wisdom (choosing, accordingly, the starting Reward or Virtue).
+17. Select starting gear.
+18. Record fatigue.
 
-What about:  standard of living, description
+What about:  
 
 [Attributes](attributes.md) - The aptitudes and nature capabilities of a hero.
