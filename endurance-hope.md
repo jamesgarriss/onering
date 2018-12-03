@@ -1,10 +1,10 @@
 # Endurance and Hope
 
-Endurance and Hope are the fundamental resources that keep a character going. 
+Endurance and Hope are the fundamental resources that keep a hero going. 
 
 ## Endurance
 
-Endurance is the expression of a playerhero’s physical stamina and determination. It is reduced when a character is subjected to physical harm, stress and exhaustion.
+Endurance is the expression of a hero's physical stamina and determination. It is reduced when a hero is subjected to physical harm, stress and exhaustion.
 
 * Bardings = 22 + Heart
 * Beornings = 24 + Heart
@@ -15,7 +15,7 @@ Endurance is the expression of a playerhero’s physical stamina and determinati
 
 ## Hope
 
-A character’s Hope score defines the reserves of spiritual vigour that heroes draw upon when put in danger. Players can choose to spend a point of Hope to tap a player-hero’s energy reserves and possibly push him beyond his limits. 
+A character’s Hope score defines the reserves of spiritual vigour that heroes draw upon when put in danger. Players can choose to spend a point of Hope to tap a hero's energy reserves and possibly push him beyond his limits. 
 
 * Bardings = 8 + Heart 
 * Beornings = 8 + Heart 
