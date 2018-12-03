@@ -5,7 +5,7 @@ Valour and Wisdom measure a hero’s resistance to Fear and the Shadow, and trac
 * A character’s Wisdom rank defines his self-understanding and capability for good judgement and is a measure of his resistance to the corrupting power of the Shadow.
 * A hero's Valour rank describes his stature as a doer of great deeds and is a measure of his courage in the face of dangerous situations or opponents.  
 
-Both scores range from 1 to 6, and rise over the course of the game.  A starting player gives a score of 2 to one characteristic and 1 to the other. If a player chose to put 2 puts into Valor, then the hero will receive a Reward.  If Wisdom, then the hero will receive a Virtue. When heros gain a rank, they will put an additional point into either Valor or Wisdom and will recieve either an additional Virtue or Reward.
+Both scores range from 1 to 6, and rise over the course of the game.  A starting player gives a score of 2 to one characteristic and 1 to the other. If a player chooses to put 2 points into Wisdom, then the hero will receive a Virtue. If a player chooses to put 2 points into Valor, then the hero will receive a Reward.   When heros gain a rank, they will put an additional point into either Valor or Wisdom and will recieve either an additional Virtue or Reward.
 
 ## Virtues
 
