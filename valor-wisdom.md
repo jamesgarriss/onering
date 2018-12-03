@@ -2,8 +2,8 @@
 
 Valour and Wisdom measure a hero’s resistance to Fear and the Shadow, and track his stature in terms of power and renown. 
 
-* A hero's Valour rank describes his stature as a doer of great deeds and is a measure of his courage in the face of dangerous situations or opponents.  
 * A character’s Wisdom rank defines his self-understanding and capability for good judgement and is a measure of his resistance to the corrupting power of the Shadow.
+* A hero's Valour rank describes his stature as a doer of great deeds and is a measure of his courage in the face of dangerous situations or opponents.  
 
 Both scores range from 1 to 6, and rise over the course of the game.  A starting player gives a score of 2 to one characteristic and 1 to the other. If a player chose to put 2 puts into Valor, then the hero will receive a Reward.  If Wisdom, then the hero will receive a Virtue. When heros gain a rank, they will put an additional point into either Valor or Wisdom and will recieve either an additional Virtue or Reward.
 
@@ -76,18 +76,49 @@ Woodmen - The qualities that let the Woodmen clans survive in one of the most da
 * A Hunter’s Resolve - The inner strength of a relentless hunter (Hope to recover endurance)
 * Herbal Remedies - Concocting salves and remedies from herbs in Mirkwood (reduce weariness, eventually neutralize poison)
 * Hound of Mirkwood - Delight in training wolfhounds (trained hound, improved Hope)
-* Natural Watchfulness - Read a situation from the animals around you 
-* Staunching Song.
+* Natural Watchfulness - Read a situation from the animals around you (improved awareness and explore rolls)
+* Staunching Song - An echo of an ancient Elvish song (recover endurance points after a fight)
 
 ## Rewards
 
-Rewards are pieces of war gear of superior craftsmanship, granted to a player-hero as an award for his deeds. 
+Rewards are pieces of war gear of superior craftsmanship, granted to a player-hero as an award for his deeds.  Rewards may be tributes given to the hero by his own folk or family or by a munificent lord honouring an adventurer by letting him choose a weapon or a suit of armour from his personal armoury. There are two types of Rewards – Qualities and Cultural Rewards. 
 
-* Bardings - Dalish Longbow, Spear of King Bladorthin, Tower Shield.
-* Beornings - Giant-slaying Spear, Noble Armour, Splitting Axe.
-* Dwarves - Axe of the Azanulbizar, Dwarf-wrought Hauberk, Helm of Awe.
-* Elves - Bitter Spear, Spearman’s Shield, Woodland Bow.
-* Hobbits - Bow of the North Downs, King’s Blade, Lucky Armour.
-* Woodmen - Bearded Axe, Feathered Armour, Shepherds-bow.
+### Qualities
+
+Qualities are generic enhancements that affect a single characteristic of any weapon or suit of armour that is used.
+
+### Cultural Rewards
+
+
+
+Bardings - 
+* Dalish Longbow
+* Spear of King Bladorthin
+* Tower Shield
+
+Beornings - 
+* Giant-slaying Spear
+* Noble Armour
+* Splitting Axe
+
+Dwarves - 
+* Axe of the Azanulbizar
+* Dwarf-wrought Hauberk
+* Helm of Awe
+
+Elves - 
+* Bitter Spear
+* Spearman’s Shield
+* Woodland Bow
+
+Hobbits - 
+* Bow of the North Downs
+* King’s Blade
+* Lucky Armour
+
+Woodmen - 
+* Bearded Axe
+* Feathered Armour
+* Shepherds-bow
 
 page 116
