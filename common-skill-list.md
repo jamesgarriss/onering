@@ -1,6 +1,8 @@
 # Common Skill List
 
-A favored skill describes a character's peculiar talent in the field described by the ability.  Favored skills are marked below with an (F).
+Common skills represent the things a hero has learnt to do.
+
+A favored skill describes a character's peculiar talent in the field described by the ability.  Favored skills (for a given culture) are marked with an (F).
 
 ## Definitions
 
