@@ -71,12 +71,12 @@ Hobbits - Hobbits rarely display Virtues considered to be heroic by other races,
 * Tough in the Fibre - Recover health at a prodigious pace (recover endurange faster)
 * Small Folk - An advantage in a fight when smaller (bonus to parry, the small trait)
 
-Woodmen - 
+Woodmen - The qualities that let the Woodmen clans survive in one of the most dangerous corners of Wilderland are subtle and diverse, and all have been put to the test during years of constant struggle against the darkness of Dol Guldur. 
 
-* A Hunter’s Resolve
-* Herbal Remedies
-* Hound of Mirkwood
-* Natural Watchfulness
+* A Hunter’s Resolve - The inner strength of a relentless hunter (Hope to recover endurance)
+* Herbal Remedies - Concocting salves and remedies from herbs in Mirkwood (reduce weariness, eventually neutralize poison)
+* Hound of Mirkwood - Delight in training wolfhounds (trained hound, improved Hope)
+* Natural Watchfulness - Read a situation from the animals around you 
 * Staunching Song.
 
 ## Rewards
