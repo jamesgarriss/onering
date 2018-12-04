@@ -8,6 +8,11 @@ Cultural Blessing: [Furious](../generation/cultural-blessing.md)
 
 Common Skills: 
 * Body Skills
-** Awe
+    * Awe
+    * Athletics
+    * Awareness
+    * Explore
+    * Song
+    * Craft
 * Heart Skills
 * Wit Skills
