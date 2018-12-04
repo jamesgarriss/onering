@@ -18,7 +18,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 12. Spend [previous experience](previous-experience.md) and buy skill levels.
 13. Choose a [calling](callings.md).
 14. Calculate the scores for [endurance and hope](endurance-hope.md). 
-15. Prioritise the scores for [valour and wisdom](valor-wisdom.md).
+15. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
 16. Select starting gear.
 17. Record fatigue.
 
