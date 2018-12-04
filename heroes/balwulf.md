@@ -28,3 +28,8 @@ Cultural Blessing: [Furious](../generation/cultural-blessing.md)
     * Hunting - 3
     * Riddle - 1
     * Lore - 0
+
+[Weapon Skills](../generation/weapon-skill-list.md):
+* Axes - 2
+* Spear - 1
+* Dagger - 1
