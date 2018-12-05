@@ -28,3 +28,5 @@ Cultural Blessing: [Woodcrafty](../generation/cultural-blessing.md)
     * Hunting - 2
     * Riddle - 1
     * Lore - 0
+
+[Weapon Skills](../generation/weapon-skill-list.md):
