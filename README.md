@@ -4,6 +4,10 @@
 
 Generation information about this game can be found [here](general/general.md).
 
+## Timeline
+
+A partial chronology of the Third Age can be found [here](timeline/timeline.md).
+
 ## Hero Generation
 
 The process for generating a hero can be found [here](generation/generation.md).
