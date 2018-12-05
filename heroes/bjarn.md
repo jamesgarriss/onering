@@ -30,3 +30,6 @@ Cultural Blessing: [Woodcrafty](../generation/cultural-blessing.md)
     * Lore - 0
 
 [Weapon Skills](../generation/weapon-skill-list.md):
+* Bows - 2
+* Long-hafted axe - 1
+* Dagger - 1
