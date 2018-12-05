@@ -33,3 +33,7 @@ Cultural Blessing: [Furious](../generation/cultural-blessing.md)
 * Axes - 2
 * Spear - 1
 * Dagger - 1
+
+Traits
+* [Beast-lore](../generation/specialities.md)
+* [Story-telling](../generation/specialities.md)
