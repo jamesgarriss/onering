@@ -18,7 +18,7 @@ Cultural Blessing: [Woodcrafty](../generation/cultural-blessing.md)
     * Inspire - 1
     * Travel - 0
     * Insight - 0
-    * Healing - 3
+    * Healing - 3 (F)
     * Courtesy - 0
     * Battle - 1
 * Wit Skills
