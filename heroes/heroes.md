@@ -2,4 +2,4 @@
 
 [Balwulf](balwulf.md) - A Beorning
 
-A Woodman Healer
+[Bjarn](bjarn.md) - A Woodman Healer
