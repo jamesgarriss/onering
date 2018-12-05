@@ -155,7 +155,7 @@ Travel - In the Third Age, the cities, villages and towns of Middleearth are oft
 * Insight 0
 * Search 0
 * Explore 3
-* Healing 3
+* Healing 3 (F)
 * Hunting 2
 * Song 1
 * Courtesy 0
