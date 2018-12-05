@@ -6,7 +6,7 @@ Specialities are type of trait.  Traits describe aspects of an hero’s build, t
 
 ## Definitions
 
-* Beast-lore
+* Beast-lore - Your knowledge of beasts can provide information regarding an animal you are hunting, or tell you whether a cave you chose as refuge is likely to be the den of a dangerous creature.
 * Boating
 * Burglary - Includes pickpocketing, lock picking and, in general, any shadowy way to get hold of the possessions of others or access protected areas. TreasureHunters are generally skilled burglars.
 * Cooking
@@ -27,7 +27,7 @@ Specialities are type of trait.  Traits describe aspects of an hero’s build, t
 * Smith-craft
 * Smoking
 * Stone-craft
-* Story-telling
+* Story-telling - You are a masterful narrator of deeds and stories, able to weave plots and facts with passion and vividness.
 * Swimming
 * Trading
 * Tunnelling - Accustomed to the difficulties of moving in passages dug under the earth.
