@@ -1,5 +1,5 @@
 # Heroes
 
-[Balwulf](balwulf.md) - A Beorning
+[Balwulf](balwulf.md) - A Beorning Scholar
 
 [Bjarn](bjarn.md) - A Woodman Healer
