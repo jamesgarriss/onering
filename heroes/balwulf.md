@@ -48,3 +48,7 @@ Attributes:
 * Body: 6
 * Heart: 4
 * Wits: 4
+
+Languages
+* Common
+* Value of Anduin Tongue
