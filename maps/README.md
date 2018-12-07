@@ -1,3 +1,3 @@
 # Maps
 
-The [Wilderland](Map of the Wilderland.pdg)
+The [Wilderland](Map of the Wilderland.pdf)
