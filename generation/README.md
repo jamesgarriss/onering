@@ -28,3 +28,9 @@ TODO
 * Endurance/Rating/Hope
 * Hope/Rating/Shadow
 * Weary/Miserable/Wounded
+* Fellowship
+* Advancement Points
+* Treasure
+* Standing
+* Company (Guide, Scout, Huntsman, Lookout Man, Fellowship Focus)
+* Fellowship Focus (Sanctuaries, Patrons)
