@@ -20,4 +20,11 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 16. Select starting gear.
 17. Record fatigue.
 
-
+TODO
+* Experience
+* Damage/Ranged
+* Parry/Shield
+* Armor/Head Gear
+* Endurance/Rating/Hope
+* Hope/Rating/Shadow
+* Weary/Miserable/Wounded
