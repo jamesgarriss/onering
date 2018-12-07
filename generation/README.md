@@ -17,7 +17,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 13. Choose a [calling](callings.md).
 14. Calculate the scores for [endurance and hope](endurance-hope.md). 
 15. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
-16. Select starting gear.
+16. Select [starting gear](starting-gear.md).
 17. Record fatigue.
 
 TODO
@@ -32,5 +32,5 @@ TODO
 * Advancement Points
 * Treasure
 * Standing
-* Company (Guide, Scout, Huntsman, Lookout Man, Fellowship Focus)
+* Company (Guide, Scout, Huntsman, Lookout Man, Fellowship Focus 81)
 * Fellowship Focus (Sanctuaries, Patrons)
