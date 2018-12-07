@@ -4,6 +4,8 @@ Player: Emilee (Shardbearer)
 
 Culture: [Beorning](../generation/cultures.md)
 
+Age: 19
+
 Standard of Living: [Martial](../generation/standard-of-living.md)
 
 Cultural Blessing: [Furious](../generation/cultural-blessing.md)
