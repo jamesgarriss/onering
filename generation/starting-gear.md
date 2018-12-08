@@ -4,7 +4,11 @@ Broadly speaking, most of the gear owned by a hero will fall into one of two cat
 
 ## Traveling Gear
 
+Traveling gear is all the typical stuff used while adventuring, things like clothes, blankets, flint and steel, rope, and food and water (for one week).  Typically these items are not detailed individually,  During the spring and summer, traveling gear has an Encumbrance of 2; during fall and winter, it has 3.  Traveling gear can include one instrument, if the hero has at least one level in Song.
+
 ## War Gear
+
+Weapons, armor, helms, and shield are individually recorded, and they have unique Encumbrance ratings.
 
 ## Fatigue
 
