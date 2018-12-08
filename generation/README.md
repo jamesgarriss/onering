@@ -3,24 +3,26 @@
 A hero is a character who has abandoned their day-to-day activities in order to become an adventurer.  To create a hero:
 
 1. Chose a [culture](cultures.md).
-2. Choose a [name](names.md).
-3. Record the [standard of living](standard-of-living.md).
-4. Record the [cultural blessing](cultural-blessing.md).  
-5. Choose a [calling](callings.md).
-6. Record the [shadow weakness](shadow-weakness.md).
-4. Record the [common skills](common-skill-list.md). 
-5. Choose [weapon skills](weapon-skill-list.md).
-6. Select two [specialities](specialities.md).
-7. Choose (or create) a [background](background.md).
-9. Record [language(s)](languages.md).
-10. Choose an [age](age.md).
-11. Choose the [favored attributes](favored-attributes.md).
-12. Spend [previous experience](previous-experience.md) and buy skill levels.
-
-14. Calculate the scores for [endurance and hope](endurance-hope.md). 
-15. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
-16. Select [starting gear](starting-gear.md) and calculate fatigue.
-17. Record fatigue.
+    a. Choose a [name](names.md).
+    b. Record the [standard of living](standard-of-living.md).
+    c. Record the [cultural blessing](cultural-blessing.md).  
+    d. Record the [common skills](common-skill-list.md). 
+    e. Choose [weapon skills](weapon-skill-list.md).
+    f. Select two [specialities](specialities.md).
+    g. Record [language(s)](languages.md).
+    h. Choose an [age](age.md).
+2. Choose (or create) a [background](background.md).
+    a. Skill the basic attributes.
+    b. Record the favored skill.
+    c. Select two distinctive features.
+    d. Choose the [favored attributes](favored-attributes.md).
+    e. Spend [previous experience](previous-experience.md) and buy skill levels.
+3. Choose a [calling](callings.md).
+    a. Record the [shadow weakness](shadow-weakness.md).
+4. Calculate the scores for [endurance and hope](endurance-hope.md). 
+5. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
+6. Select [starting gear](starting-gear.md) and calculate fatigue.
+7. Record fatigue.
 
 TODO
 * Experience
