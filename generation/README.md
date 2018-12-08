@@ -36,22 +36,40 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 
     a. Record the [shadow weakness](shadow-weakness.md).
     
-4. Calculate the scores for [endurance and hope](endurance-hope.md). 
-5. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
-6. Select [starting gear](starting-gear.md) and calculate fatigue.
-7. Record fatigue.
+5. Select [starting gear](starting-gear.md) and calculate fatigue.
 
-TODO
-* Experience
-* Damage/Ranged
-* Parry/Shield
-* Armor/Head Gear
-* Endurance/Rating
-* Hope/Rating/Shadow
-* Weary/Miserable/Wounded
-* Fellowship
-* Advancement Points
-* Treasure
-* Standing
-* Company (Guide, Scout, Huntsman, Lookout Man, Fellowship Focus 81)
-* Fellowship Focus (Sanctuaries, Patrons)
+    a. Damage/Ranged
+    
+    b. Parry/Shield
+    
+    c. Armor/head gear
+
+    d. Record fatigue.
+
+5. Calculate and record remaining stats.
+
+    a. Calculate the scores for [endurance and hope](endurance-hope.md). 
+
+    b. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
+    
+    c. Experience
+    
+    d. Endurance/rating
+    
+    e. Hope/Rating/Shadow
+
+    f. Weary/Miserable/Wounded    
+
+    g. Fellowship
+
+    h. Advancement Points
+
+    i. Treasure
+
+    j. Standing
+    
+6. Organize the company 
+
+    a. Guide, Scout, Huntsman, Lookout Man, 
+    
+    b. Fellowship Focus 81 - Sanctuaries, Patrons
