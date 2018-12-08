@@ -12,10 +12,6 @@ The cast of characters can be found [here](heroes/README.md).
 
 The story so far can be found [here](story/README.md).
 
-## Timeline
-
-A partial chronology of the Third Age can be found [here](timeline/README.md).
-
 ## Maps
 
 Pertinent maps for the game can be found [here](maps/README.md).
