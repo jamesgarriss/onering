@@ -5,7 +5,6 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 1. Chose a [culture](cultures.md).
 
     a. Choose a [name](names.md).
-    
     b. Record the [standard of living](standard-of-living.md).
     
     c. Record the [cultural blessing](cultural-blessing.md).  
