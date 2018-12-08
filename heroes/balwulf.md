@@ -60,7 +60,7 @@ Rewards
 Virtues
 *
 
-Languages
+[Languages](../generation/languages.md):
 * Common
 * Value of Anduin Tongue
 
