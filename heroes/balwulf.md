@@ -46,7 +46,7 @@ Traits
 
 Background - Balwulf is a second generation Beorning. His parents were of a rough-and-tumble crowd who were drawn to Beorn's leadership skills, and they joined his group together.  Balwulf was born only a short time later.  His household was fairly normal, as far as Beornings go, though Balwulf found himself often drawn away from the secluded lifestyle of his family. He was enticed by his parent's stories of their lives before joining Beorn, and he desired to go out and learn of other cultures for himself.  After he came of age at 18, Balwulf began to truly dream of leaving the Beorning's part of the world to explore. His parents, though loving, tried to push him away from that path and encouraged him to take part in the family’s way of support: beekeeping. Eventually, he decided that he must go and learn all that he could about the world around him. Shortly after his 19th birthday, he departed. First, he journeyed down through the west edge of Mirkwood into the land of the Woodmen. From there, he intended to explore Mirkwood’s east side as he headed up towards Laketown.
 
-Attributes:
+[Attributes](../generation/background.md):
 * Body:  6 (7)
 * Heart: 4 (3)
 * Wits:  4 (5)
