@@ -33,10 +33,8 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     e. Spend [previous experience](previous-experience.md) and buy skill levels.
     
 3. Choose a [calling](callings.md).
-
-    a. Record the [shadow weakness](shadow-weakness.md).
     
-5. Select [starting gear](starting-gear.md) and calculate fatigue.
+4. Select [starting gear](starting-gear.md) and calculate fatigue.
 
     a. Damage/Ranged
     
