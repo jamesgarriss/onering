@@ -44,4 +44,4 @@ Note: There are other cultures that can be played:
 * Elves
     * High Elves of Rivendell
     * Elves of Lorien (Companion)
-    * Wayward Elves (Companion)
+    * Wayward Elves of Mirkwood (Companion)
