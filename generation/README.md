@@ -22,9 +22,9 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
 2. Choose (or create) a [background](background.md).
 
-    a. Skill the basic attributes.
+    a. Skill the [basic attributes](basic-attributes.md).
     
-    b. Record the favored skill.
+    b. Record the [favored skill](favored-skill.md).
     
     c. Select two distinctive features.
     
