@@ -14,6 +14,8 @@ Weapons, armor, helms, and shield are individually recorded, and they have uniqu
 
 Each hero starts with one of each weapon for which they have a skill point.  Stats should be recorded for each weapon.
 
+Each hero starts with one coat of armor, one headgear, and one shield.  Stats should be recorded for each piece.
+
 ## Fatigue
 
 Every piece (or set) of gear has an Encumbrance rating that represents the hindrance the item causes the hero (weight and discomfort).  The sum of all Encumbrance ratings equals the hero's Fatigue score.
