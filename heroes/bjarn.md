@@ -57,6 +57,11 @@ Rewards
 Virtues
 *
 
+[Languages](../generation/languages.md):
+* Common
+* Value of Anduin Tongue
+
+
 Background - Having spent his entire life in Mirkwood, one might call the Woodman Bjarn...traditional. His parents were by no means wealthy, but they took pride in being completely independent. Perhaps that is where Bjarn learned to do the same. For 30 years Bjarn had established quite a solid routine: hunting, working, fixing, nothing very impressive. He was also known to be good around the sick and broken, freely offering help to those who were in need of physical aid. Living alone for the entirety of his adult life, Bjarn also took pride in his independence, much like his parents, and never much enjoyed the thrill of a large crowd. Perhaps this why no one asked many questions when he left. A curiosity had been growing in him, but the security of his rather bland and safe life had always trumped his wondering. The day he left, something must have convinced him that his skills would be better suited elsewhere, perhaps there was something greater planned for him.
 
 
