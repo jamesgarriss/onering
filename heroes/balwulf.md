@@ -12,13 +12,14 @@ Cultural Blessing: [Furious](../generation/cultural-blessing.md)
 
 Calling: [Scholar](../generation/callings.md)
 
-Shadow Weakness:
+Shadow Weakness: [Lure of Secrets](../generation/callings.md)
 
 Traits
 * [Beast-lore](../generation/specialities.md)
 * [Story-telling](../generation/specialities.md)
 * [Clever](../generation/background.md)
 * [Energetic](../generation/background.md)
+* [Rhymes of Lore](../generation/specialities.md)
 
 [Attributes](../generation/background.md):
 * Body:  6 (7)
@@ -36,10 +37,10 @@ Traits
 * Heart Skills
     * Inspire - 1
     * Travel - 1
-    * Insight - 3
+    * Insight - 3 (F)
     * Healing - 1
     * Courtesy - 0
-    * Battle - 1
+    * Battle - 1 (F)
 * Wit Skills
     * Persuade - 1
     * Stealth - 0
