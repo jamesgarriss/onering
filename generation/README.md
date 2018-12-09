@@ -68,8 +68,8 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 
     j. Standing
     
-6. Organize the company 
-
-    a. Guide, Scout, Huntsman, Lookout Man, 
+6. Organize the [company](company.md)
+       
+7. Fellowship phase
     
-    b. Fellowship Focus 81 - Sanctuaries, Patrons
+    b. Sanctuaries, Patrons
