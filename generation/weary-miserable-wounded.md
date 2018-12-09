@@ -12,6 +12,6 @@ A hero becomes Miserable when his current Hope score is equal to or lower than h
 
 ## Wounded
 
-A hero becomes Wounded when he receives a life-threatening blow, typically from combat.  If a Wounded hero is wounded again, he is unconscious.
+A hero becomes Wounded when he receives a life-threatening blow, typically from combat, or is poisoned.  If a Wounded hero is wounded again, he is unconscious.
 
 If a hero has 0 [Endurance](endurance-hope.md) and is Wounded, then he is considered to be Dying and will pass away soon without help.
