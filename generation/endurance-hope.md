@@ -13,6 +13,8 @@ Endurance is the expression of a hero's physical stamina and determination. It i
 * Hobbits = 16 + Heart
 * Woodmen = 20 + Heart
 
+During combat, heros lose endurance point to blows.  Endurance can also be lost due to strenuous effort and other physical harm.  When endurance drops to the same level as fatique, then the hero is [weary](weary-miserable-wounded.md).
+
 ## Hope
 
 A character’s Hope score defines the reserves of spiritual vigour that heroes draw upon when put in danger. Players can choose to spend a point of Hope to tap a hero's energy reserves and possibly push him beyond his limits. 
