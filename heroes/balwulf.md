@@ -22,8 +22,8 @@ Traits
 * [Rhymes of Lore](../generation/specialities.md)
 
 [Attributes](../generation/background.md):
-* Body:  6 (7)
-* Heart: 4 (3)
+* Body:  6 (8)
+* Heart: 4 (7)
 * Wits:  4 (5)
 
 [Common Skills](../generation/common-skill-list.md): 
