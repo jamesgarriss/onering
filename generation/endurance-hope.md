@@ -29,3 +29,5 @@ A character’s Hope score defines the reserves of spiritual vigour that heroes 
 * Woodmen = 10 + Heart
 
 When Hope drops to the same level (or lower) as his Shadow Rating, then the hero is [Miserable](weary-miserable-wounded.md).
+
+If a hero's Hope score is reduced to 0, he is spiritually drained. A spent hero cannot bear himself to continue a struggle of any sort, and will flee from any source of danger or stress at the first opportunity, unless cornered and forced to fight. 
