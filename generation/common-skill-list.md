@@ -1,6 +1,14 @@
 # Common Skill List
 
-Common skills represent the things a hero has learnt to do.
+Common skills represent the things a hero has learned to do.  A heros proficiency in a skill is represented by his skill ranks, ranging from 0 (lowest) to 6 (highest). 
+
+* 0 = unskilled
+* 1 = poor
+* 2 = average
+* 3 = good
+* 4 = superior
+* 5 = oustanding
+* 6 = prodigious
 
 A favored skill describes a character's peculiar talent in the field described by the ability.  Favored skills (for a given culture) are marked with an (F).
 
