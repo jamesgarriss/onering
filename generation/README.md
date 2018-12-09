@@ -46,7 +46,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 
     d. Record fatigue.
 
-5. Calculate and record remaining stats.
+5. Update the remaining stats.
 
     a. Calculate the scores for [endurance and hope](endurance-hope.md). 
 
@@ -58,7 +58,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
     e. [Hope](hope.md)/Rating/Shadow
 
-    f. Weary/Miserable/Wounded    
+    f. Uncheck the [states of health](weary-miserable-wounded.md).
 
     g. Record the party's [fellowship points](fellowship.md).
 
