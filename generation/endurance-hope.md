@@ -17,6 +17,8 @@ During combat, heros lose endurance point to blows.  Endurance can also be lost 
 
 If Endurance drops to 0, then the hero is exhausted and drops unconscious.
 
+If a hero has 0 Endurance and is [Wounded](weary-miserable-wounded.md), then he is considered to be Dying and will pass away soon without help.
+
 ## Hope
 
 A character’s Hope score defines the reserves of spiritual vigour that heroes draw upon when put in danger. Players can choose to spend a point of Hope to tap a hero's energy reserves and possibly push him beyond his limits. 
