@@ -53,9 +53,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     b. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
     
     c. Experience
-    
-    d. Endurance/rating - combine with above
-    
+       
     e. [Hope](hope.md)/Rating/Shadow - combine with above
 
     f. Uncheck the [states of health](weary-miserable-wounded.md).
