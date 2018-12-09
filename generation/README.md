@@ -54,9 +54,9 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
     c. Experience
     
-    d. Endurance/rating
+    d. Endurance/rating - combine with above
     
-    e. [Hope](hope.md)/Rating/Shadow
+    e. [Hope](hope.md)/Rating/Shadow - combine with above
 
     f. Uncheck the [states of health](weary-miserable-wounded.md).
 
