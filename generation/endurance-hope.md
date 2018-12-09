@@ -13,7 +13,9 @@ Endurance is the expression of a hero's physical stamina and determination. It i
 * Hobbits = 16 + Heart
 * Woodmen = 20 + Heart
 
-During combat, heros lose endurance point to blows.  Endurance can also be lost due to strenuous effort and other physical harm.  When endurance drops to the same level as fatique, then the hero is [weary](weary-miserable-wounded.md).
+During combat, heros lose endurance point to blows.  Endurance can also be lost due to strenuous effort and other physical harm.  When Endurance drops to the same level (or lower) as his Fatique, then the hero is [Weary](weary-miserable-wounded.md).
+
+If Endurance drops to 0, then the hero is exhausted and drops unconscious.
 
 ## Hope
 
@@ -25,3 +27,5 @@ A character’s Hope score defines the reserves of spiritual vigour that heroes 
 * Elves = 8 + Heart 
 * Hobbits = 12 + Heart 
 * Woodmen = 10 + Heart
+
+When Hope drops to the same level (or lower) as his Shadow Rating, then the hero is [Miserable](weary-miserable-wounded.md).
