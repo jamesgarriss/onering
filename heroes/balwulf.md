@@ -30,23 +30,23 @@ Traits
     * Awe - 3
     * Athletics - 2 (F)
     * Awareness - 2
-    * Explore - 0
-    * Song - 0 (F)
+    * Explore - 1
+    * Song - 2 (F)
     * Craft - 1
 * Heart Skills
     * Inspire - 1
-    * Travel - 0
+    * Travel - 1
     * Insight - 3
     * Healing - 1
     * Courtesy - 0
-    * Battle - 0
+    * Battle - 1
 * Wit Skills
-    * Persuade - 0
+    * Persuade - 1
     * Stealth - 0
     * Search - 1
     * Hunting - 3
-    * Riddle - 1
-    * Lore - 0
+    * Riddle - 2
+    * Lore - 1
 
 [Weapon Skills](../generation/weapon-skill-list.md):
 * Axes - 2
