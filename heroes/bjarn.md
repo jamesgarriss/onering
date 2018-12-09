@@ -4,7 +4,7 @@ Player:  Jaren (Saturn)
 
 Culture:  [Woodman](../generation/cultures.md)
 
-Age:
+Age: 30
 
 Standard of Living: [Frugal](../generation/standard-of-living.md)
 
