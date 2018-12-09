@@ -60,7 +60,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 
     f. Weary/Miserable/Wounded    
 
-    g. Fellowship
+    g. Record the party's [fellowship points](fellowship.md).
 
     h. Advancement Points
 
