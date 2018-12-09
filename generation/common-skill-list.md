@@ -14,6 +14,10 @@ A favored skill describes a character's peculiar talent in the field described b
 
 ## Definitions
 
+Athletics - Athletics is a broad skill, covering most of the physical activities that a hero might undertake while adventuring, including running, leaping, climbing, swimming and throwing stones or other small objects. Heroes with high Athletics skill scores exhibit a winning combination of physical prowess, grace and control, generally gained through continuous exercise and daily exertion. 
+
+Awareness - The Awareness skill represents a hero’s readiness to react and his ability to notice something unexpected, out of the ordinary, or difficult to detect. High skill reflects both keen senses and the experience to understand what you see and hear.
+
 Awe - This skill measures a hero’s capacity to provoke respect in onlookers, and determines the impression a hero makes on someone he meets for the first time. 
 
 Battle - A hero’s proficiency in this skill shows his grasp of the rules of battle, and his ability to keep his head when involved in a violent confrontation
