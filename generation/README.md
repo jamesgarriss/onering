@@ -56,7 +56,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
     d. Endurance/rating
     
-    e. Hope/Rating/Shadow
+    e. [Hope](home.md)/Rating/Shadow
 
     f. Weary/Miserable/Wounded    
 
