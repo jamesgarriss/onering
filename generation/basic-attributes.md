@@ -9,3 +9,12 @@ The basic attributes are Body, Heart, and Wit, which describe a hero's physical,
 A physical task or test may be modified by Body, a challenge affecting the morale of the character or their relationship with another person would use the Heart score, while a contest of cunning may be affected by their Wits.
 
 All heroes begin with 14 points to spread among the 3 basic attributes.  They should be prioritized in a manner that correlates with the description.  A healer, for example, would want more points in Heart.  A Dwarven trader would want more points in Body.  An Elvish envoy would want more points in Wits.
+
+## Attribute Ratings
+
+* 1-2 = Poor
+* 3-4 = Average
+* 5-6 = Good
+* 7-8 = Superior
+* 9-10 = Outstanding
+* 11-12 = Prodigious
