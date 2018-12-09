@@ -14,9 +14,9 @@ Each hero starts the game with a set of traveling gear.
 
 Weapons, armor, helms, and shield are individually recorded, and they have unique Encumbrance ratings.
 
-Each hero starts with one of each weapon for which they have a skill point.
+Each hero starts with one of each weapon for which they have a skill point.  For each, record its stats (damage, edge, injury, and encumbrance).
 
-Each hero starts with one coat of armor, one headgear, and one shield. 
+Each hero starts with one coat of armor, one headgear, and one shield.  For each, record its encumbrance and parry modifier.
 
 ## Other Items
 
