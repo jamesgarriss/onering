@@ -6,4 +6,6 @@ A hero becomes Weary when his current Endurance score is equal to or lower than 
 
 ## Miserable
 
+A hero becomes Miserable when his current Hope score is equal to or lower than his Shadow rating.  As long as a hero is Miserable, he is in danger of suffering a bout of madness and temporarily lose control of himself.
+
 ## Wounded
