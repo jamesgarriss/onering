@@ -31,3 +31,9 @@ A character’s Hope score defines the reserves of spiritual vigour that heroes 
 When Hope drops to the same level (or lower) as his Shadow Rating, then the hero is [Miserable](weary-miserable-wounded.md).
 
 If a hero's Hope score is reduced to 0, he is spiritually drained. A spent hero cannot bear himself to continue a struggle of any sort, and will flee from any source of danger or stress at the first opportunity, unless cornered and forced to fight. 
+
+### Attribute Bonus
+
+Whenever dice are rolled, players may choose to spend a point of Hope to gain a bonus to the result equal to the rating of the most appropriate Attribute. This is called an Attribute bonus.
+
+A physical task or test may be modified by Body, a challenge affecting the morale of the character or their relationship with another person would use the Heart score, while a contest of cunning may be affected by their Wits.
