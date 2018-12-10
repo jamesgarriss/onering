@@ -8,7 +8,7 @@ Nevertheless, Wilderland has changed significantly in recent years. Smaug, the D
 
 ## Timeline
 
-A [timeline](timeline.md) of events in the Third Age of Middle-earth
+A [timeline](timeline.md) of some key events in the Third Age of Middle-earth
 
 ## Calendar
 
