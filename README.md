@@ -2,7 +2,7 @@
 
 ## General Info
 
-Generation information about this game can be found [here](general/README.md).
+General information about this game can be found [here](general/README.md).
 
 ## Heroes
 
