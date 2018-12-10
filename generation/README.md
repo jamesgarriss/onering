@@ -48,7 +48,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 
 5. Update the remaining stats.
 
-    a. Calculate the scores for [endurance and hope](endurance-hope.md). 
+    a. Calculate the scores for [endurance](endurance.md). 
 
     b. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
     
