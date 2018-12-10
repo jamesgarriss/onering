@@ -54,15 +54,13 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
     c. Experience
        
-    f. Uncheck the [states of health](weary-miserable-wounded.md).
+    d. Uncheck the [states of health](weary-miserable-wounded.md).
 
-    g. Record the party's [fellowship points](fellowship.md).
+    e. Advancement Points
 
-    h. Advancement Points
+    f. Treasure
 
-    i. Treasure
-
-    j. Standing
+    g. Standing
     
 6. Organize the [company](company.md).
        
