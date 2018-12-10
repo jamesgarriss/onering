@@ -36,8 +36,10 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
 4. Select [starting gear](starting-gear.md).
   
-    a. Calculate [fatigue](fatigue.md).
-
+    a. Calculate [damage and parry](damage-parry.md).
+    
+    b. Calculate [fatigue](fatigue.md).
+    
 5. Update the remaining stats.
 
     a. Calculate the scores for [endurance](endurance.md). 
@@ -46,11 +48,9 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
     c. [Experience points](experience-point.md).
        
-    d. Uncheck the [states of health](weary-miserable-wounded.md).
+    d. Advancement Points
 
-    e. Advancement Points
-
-    f. Treasure
+    e. Treasure
    
 6. Organize the [company](company.md).
        
