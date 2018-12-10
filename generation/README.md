@@ -35,14 +35,8 @@ A hero is a character who has abandoned their day-to-day activities in order to 
 3. Choose a [calling](callings.md).
     
 4. Select [starting gear](starting-gear.md).
-
-    a. Damage/Ranged
-    
-    b. Parry/Shield
-    
-    c. Armor/head gear
-    
-    d. Calculate [fatigue](fatigue.md).
+  
+    a. Calculate [fatigue](fatigue.md).
 
 5. Update the remaining stats.
 
