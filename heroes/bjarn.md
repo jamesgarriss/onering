@@ -42,7 +42,7 @@ Traits:
     * Persuade - 0
     * Stealth - 2
     * Search - 0
-    * Hunting - 2
+    * Hunting - 2 (F)
     * Riddle - 1
     * Lore - 0
 
