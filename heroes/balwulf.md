@@ -54,6 +54,9 @@ Traits
 * Spear - 1
 * Dagger - 1
 
+Combat Stance: Forward
+Damage: 6
+Parry: 4
 
 Rewards
 *
