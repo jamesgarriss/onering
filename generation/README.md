@@ -54,4 +54,4 @@ A hero is a character who has abandoned their day-to-day activities in order to 
    
 6. Organize the [company](company.md).
        
-7. Prep for the fellowship phase (Sanctuaries, Patrons)
+
