@@ -54,9 +54,11 @@ Traits
 * Spear - 1
 * Dagger - 1
 
-Combat Stance: Forward
-Damage: 6
-Parry: 4
+Combat [Stance](../generation/stance.md): Forward
+
+[Damage](../generation/damage-parry.md): 6
+
+[Parry](../generation/damage-parry.md): 4
 
 Rewards
 *
