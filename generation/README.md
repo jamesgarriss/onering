@@ -36,7 +36,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
 4. Select [starting gear](starting-gear.md).
   
-    a. Calculate [damage and parry](damage-parry.md).
+    a. Record [damage and parry](damage-parry.md).
     
     b. Select default [stance](stance.md).
     
