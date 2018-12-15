@@ -38,9 +38,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
   
     a. Calculate [damage and parry](damage-parry.md).
     
-    b. Calculate [fatigue](fatigue.md).
-    
-    c. Select default [stance](stance.md).
+    b. Select default [stance](stance.md).
     
 5. Update the remaining stats.
 
