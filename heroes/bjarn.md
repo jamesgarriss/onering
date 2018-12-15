@@ -51,6 +51,11 @@ Traits:
 * Long-hafted axe - 1
 * Dagger - 1
 
+Combat Data:
+* [Stance](../generation/stance.md): ???
+* [Damage](../generation/damage-parry.md): 4
+* [Parry](../generation/damage-parry.md): 6
+
 Rewards
 *
 
