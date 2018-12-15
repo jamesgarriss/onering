@@ -16,8 +16,20 @@ Weapons, armor, helms, and shield are individually recorded, and they have uniqu
 
 Each hero starts with one of each weapon for which they have a skill point.  For each, record its stats (damage, edge, injury, and encumbrance).
 
+### Weapons
 
-p 126
+* Dagger
+* Short sword
+* Sword
+* Long sword (1 or 2-handed)
+* Spear
+* Great spear (2-handed)
+* Axe 
+* Great axe (2-handed)
+* Long-hafted axe (1 or 2-handed)
+* Bow
+* Great bow
+* Mattock (2-handed)
 
 Each hero starts with one coat of armor, one headgear, and one shield.  For each, record its encumbrance and protection (or parry modifier).
 
