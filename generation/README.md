@@ -31,6 +31,8 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     d. Choose the [favored attributes](favored-attributes.md).
     
     e. Spend [previous experience](previous-experience.md) and buy skill levels.
+        
+        * Before buying, look at organizing the [company](company.md).
     
 3. Choose a [calling](callings.md).
     
