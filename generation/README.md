@@ -40,6 +40,8 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     
     b. Calculate [fatigue](fatigue.md).
     
+    c. Select default [stance](stance.md).
+    
 5. Update the remaining stats.
 
     a. Calculate the scores for [endurance](endurance.md). 
