@@ -45,13 +45,7 @@ A hero is a character who has abandoned their day-to-day activities in order to 
     a. Calculate the scores for [endurance](endurance.md). 
 
     b. Prioritise the scores for [valour and wisdom](valor-wisdom.md) and select a virtue or reward.
-    
-    c. [Experience points](experience-points.md).
        
-    d. Advancement Points
-
-    e. Treasure
-   
 6. Organize the [company](company.md).
        
 
