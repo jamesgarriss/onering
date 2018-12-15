@@ -23,19 +23,19 @@ Each hero starts with one coat of armor, one headgear, and one shield.  For each
 
 ### Armor
 
-* Leather shirt (En 4, Prot 1d)
-* Learther corset (En 8, Prot 2d)
-* Mail shirt (En 12, Prot 3d)
-* Mail coat (En 16, Prot 4d)
-* Mail hauberk (En 20, Prot 5d)
-* Iron/leather cap (En 2, Prot +1)
-* Helm (En 6, Prot +4)
+* Leather shirt
+* Learther corset
+* Mail shirt 
+* Mail coat
+* Mail hauberk
+* Iron/leather cap
+* Helm
 
 ### Shields
 
-* Buckler (En 1, Parry +1)
-* Shield (En 3, Parry +2)
-* Great Shield (En 5, Parry +3)
+* Buckler
+* Shield
+* Great Shield
 
 ## Other Items
 
