@@ -51,7 +51,7 @@ Traits
 * Dalish
 * Dwarvish
 
-Background: Treadnor first came to Erebor 6 years ago.  He was one of Dain's soldiers who came at Thorin's call to fight in the Battle of Five Armies.  He survived the war and chose to settle down at Erebor.  Though many Dwarves turned to mining and metal-working, Treadnor preferred the open air.  He volunteered to be a guard who traveled with the many goods that the Dwarves were trading with Dale, Lake-town, and others.
+Background: Treadnor first came to Erebor 6 years ago.  He was one of Dain's soldiers who came at Thorin's call to fight in the Battle of Five Armies.  He survived the war and chose to settle down at Erebor.  Though many Dwarves turned to mining and metal-working, Treadnor preferred the open air.  He often volunteers to be a guard and travels with the many goods that the Dwarves trade with Dale, Lake-town, and other destinations.
 
 Gear:
 * Summer Travel Gear
