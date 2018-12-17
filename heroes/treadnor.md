@@ -28,7 +28,7 @@ Traits
     * Awe - 0
     * Athletics - 0
     * Awareness - 0
-    * Explore - 2
+    * Explore - 2 (F)
     * Song - 1
     * Craft - 3 (F)
 * Heart Skills
