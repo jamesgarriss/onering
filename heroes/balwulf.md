@@ -17,9 +17,9 @@ Shadow Weakness: [Lure of Secrets](../generation/callings.md)
 Traits
 * [Beast-lore](../generation/specialities.md)
 * [Story-telling](../generation/specialities.md)
+* [Rhymes of Lore](../generation/specialities.md)
 * [Clever](../generation/background.md)
 * [Energetic](../generation/background.md)
-* [Rhymes of Lore](../generation/specialities.md)
 
 [Attributes](../generation/background.md):
 * Body:  6 (8)
