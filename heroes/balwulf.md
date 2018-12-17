@@ -12,8 +12,6 @@ Cultural Blessing: [Furious](../generation/cultural-blessing.md)
 
 Calling: [Scholar](../generation/callings.md)
 
-Shadow Weakness: [Lure of Secrets](../generation/callings.md)
-
 Traits
 * [Beast-lore](../generation/specialities.md)
 * [Story-telling](../generation/specialities.md)
