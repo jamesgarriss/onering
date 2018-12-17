@@ -12,8 +12,6 @@ Cultural Blessing: [Woodcrafty](../generation/cultural-blessing.md)
 
 Calling:
 
-Shadow Weakness:
-
 Traits:
 * [Herb-lore](../generation/specialities.md)
 * [Leechcraft](../generation/specialities.md)
