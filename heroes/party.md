@@ -1,3 +1,3 @@
 # Party Items and Values
 
-Fellowship Rating: 
+(nothing here just yet)
