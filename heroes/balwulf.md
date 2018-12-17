@@ -74,5 +74,16 @@ Background - Balwulf is a second generation Beorning. His parents were of a roug
 
 Gear:
 * Summer Travel Gear
+* Lyre (and case)
 
+Weapons:
+* Axe
+* Spear
+* Dagger
+
+Armor:
+* Leather shirt
+
+Misc:
+* Bear claws necklace
 
