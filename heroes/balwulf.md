@@ -59,6 +59,7 @@ Combat Data:
 * [Endurance](../generation/endurance.md): 28.
 
 Wisdom: 2
+
 Valor: 1
 
 Virtues
