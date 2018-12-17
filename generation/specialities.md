@@ -12,7 +12,7 @@ Specialities are type of trait.  Traits describe aspects of an hero’s build, t
 * Cooking
 * Elven-lore - Preserves recollections of deeds and places lost to the Old lore of other races. Versed in the Ancient Tongue of the Elves beyond the Sea.
 * Enemy-lore - Select the race of enemies this Speciality applies to. This Trait gives you knowledge of the characteristics, habits, strengths and weaknesses of your chosen enemy. Warriors and hunters often owe their survival to such knowledge. Slayers invariably dedicate themselves to the destruction of an enemy.
-* Fire-making
+* Fire-making - You know how to make a fire almost anywhere out of almost anything.
 * Fishing
 * Folk-lore - Possesses some knowledge of the many traditional customs, beliefs and stories of the various communities that compose the Free Peoples.  Wanderers generally pick up this Trait during their time on the road. 
 * Gardener
@@ -25,7 +25,7 @@ Specialities are type of trait.  Traits describe aspects of an hero’s build, t
 * Rhymes of Lore - Rhymes of Lore are brief compositions in verse created by many cultures to remember significant facts from ancient history. Your knowledge of them can supplement a test of Lore, but is used especially in conjunction with any Custom skill (Courtesy, Song or Riddle). Scholars may credit much of their knowledge to rhymes.
 * Shadow-lore
 * Smith-craft
-* Smoking
+* Smoking - You have mastered the art of smoking the herb called pipeweed or leaf, using a pipe of clay or wood. Practitioners of the art say it gives patience and clarity of mind, and helps them greatly to relax, concentrate or to converse peacefully with others.
 * Stone-craft
 * Story-telling - You are a masterful narrator of deeds and stories, able to weave plots and facts with passion and vividness.
 * Swimming
