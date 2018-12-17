@@ -2,7 +2,7 @@
 
 Player: James (wetpaint)
 
-Culture: Dwarf of Erobor
+Culture: Dwarf of Erebor
 
 Age: 55
 
