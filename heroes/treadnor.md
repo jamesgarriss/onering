@@ -14,7 +14,7 @@ Calling: [Warden](../generation/callings.md)
 
 Traits
 * [Fire-making](../generation/specialities.md)
-* [Smoking](../generation/specialities.md)
+* [Cooking](../generation/specialities.md)
 * [Region-lore](../generation/specialities.md) - Wilderland
 * [Gruff](../generation/distinctive-features.md)
 * [Fierce](../generation/distinctive-features.md)
