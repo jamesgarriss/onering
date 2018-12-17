@@ -18,8 +18,8 @@ Traits
 * [Beast-lore](../generation/specialities.md)
 * [Story-telling](../generation/specialities.md)
 * [Rhymes of Lore](../generation/specialities.md)
-* [Clever](../generation/background.md)
-* [Energetic](../generation/background.md)
+* [Clever](../generation/distinctive-features.md)
+* [Energetic](../generation/distinctive-features.md)
 
 [Attributes](../generation/background.md):
 * Body:  6 (8)
