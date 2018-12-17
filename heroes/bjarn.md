@@ -17,6 +17,8 @@ Shadow Weakness:
 Traits:
 * [Herb-lore](../generation/specialities.md)
 * [Leechcraft](../generation/specialities.md)
+* [Cautious](../generation/background.md)
+* [Generous](../generation/background.md)
 
 [Attributes](../generation/background.md):
 * Body:  4 ()
