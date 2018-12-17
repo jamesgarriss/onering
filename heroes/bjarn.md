@@ -21,9 +21,9 @@ Traits:
 * [Generous](../generation/background.md)
 
 [Attributes](../generation/background.md):
-* Body:  4 ()
-* Heart: 4 ()
-* Wits:  6 ()
+* Body:  4 (5)
+* Heart: 4 (6)
+* Wits:  6 (9)
 
 [Common Skills](../generation/common-skill-list.md): 
 * Body Skills
