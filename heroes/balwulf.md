@@ -87,4 +87,6 @@ Armor:
 Misc:
 * Bear claws necklace
 * Ferret (and sling bag for carrying)
+* 2 small containers of honey
+* Small journal, ink, quill
 
