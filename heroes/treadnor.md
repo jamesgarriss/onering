@@ -12,8 +12,6 @@ Cultural Blessing:  [Redoubtable](../generation/cultural-blessing.md)
 
 Calling: [Warden](../generation/callings.md)
 
-Shadow Weakness: [Lure of Power](../generation/callings.md)
-
 Traits
 * [Fire-making](../generation/specialities.md)
 * [Smoking](../generation/specialities.md)
