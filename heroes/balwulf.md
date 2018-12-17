@@ -58,6 +58,7 @@ Combat Data:
 * [Stance](../generation/stance.md): Forward
 * [Damage](../generation/damage-parry.md): 6
 * [Parry](../generation/damage-parry.md): 4
+* Endurance
 
 Rewards
 *
