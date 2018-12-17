@@ -10,30 +10,49 @@ Standard of Living: [Rich](../generation/standard-of-living.md)
 
 Cultural Blessing:  [Redoubtable](../generation/cultural-blessing.md)
 
+Calling
+
+Shadow Weakness
+
+Traits
+* [Fire-making](../generation/specialities.md)
+* [Smoking](../generation/specialities.md)
+
 [Common Skills](../generation/common-skill-list.md): 
 * Body Skills
-    * Awe - 
-    * Athletics - 
-    * Awareness - 
+    * Awe - 0
+    * Athletics - 0
+    * Awareness - 0
     * Explore - 2
     * Song - 1
     * Craft - 3 (F)
 * Heart Skills
     * Inspire - 2
     * Travel - 3
-    * Insight - 
-    * Healing - 
-    * Courtesy - 
+    * Insight - 0
+    * Healing - 0
+    * Courtesy - 0
     * Battle - 1
 * Wit Skills
-    * Persuade - 
-    * Stealth - 
+    * Persuade - 0
+    * Stealth - 0
     * Search - 3
-    * Hunting - 
+    * Hunting - 0
     * Riddle - 2
-    * Lore - 
+    * Lore - 0
  
 [Weapon Skills](../generation/weapon-skill-list.md):
 * Mattock - 2 (F)
 * Short Sword - 1
 * Dagger - 1
+
+[Languages](../generation/languages.md):
+* Common
+* Dalish
+* Dwarvish
+
+Background: Treadnor first came to Erebor 6 years ago.  He was one of Dain's soldiers who came at Thorin's call to fight in the Battle of Five Armies.  He survived the war and chose to settle down at Erebor.  Though many Dwarves turned to mining and metal-working, Treadnor preferred the open air.  He volunteered to be a guard who traveled with the many goods that the Dwarves were trading with Dale, Lake-town, and others.
+
+Gear:
+* Summer Travel Gear
+* Pipe (in leather case) and pipe-weed (in leather bag)
