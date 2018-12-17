@@ -58,11 +58,18 @@ Combat Data:
 * [Parry](../generation/damage-parry.md): 4
 * [Endurance](../generation/endurance.md): 28.
 
-Rewards
-*
+Wisdom: 2
+Valor: 1
 
 Virtues
-*
+* Ferret
+    * Retrieve (point at any small object within sight and the ferret with fetch it)
+    * Find (hold up an object, and send the ferret in a direction to look for similar objects)
+    * Dig
+    * Distract
+
+Rewards
+* n/a
 
 [Languages](../generation/languages.md):
 * Common
@@ -86,7 +93,7 @@ Armor:
 
 Misc:
 * Bear claws necklace
-* Ferret (and sling bag for carrying)
+* Hobbit the Ferret (and sling bag for carrying/sleeping)
 * 2 small containers of honey
 * Small journal, ink, quill
 
