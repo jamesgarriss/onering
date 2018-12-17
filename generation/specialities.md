@@ -29,7 +29,7 @@ Specialities are type of trait.  Traits describe aspects of an hero’s build, t
 * Stone-craft
 * Story-telling - You are a masterful narrator of deeds and stories, able to weave plots and facts with passion and vividness.
 * Swimming
-* Trading
+* Trading - You find yourself at ease when negotiating the buying and selling of items and information.
 * Tunnelling - Accustomed to the difficulties of moving in passages dug under the earth.
 * Woodwright - The art of cutting and carving wood deftly to create useful tools or beautiful thing.
 
