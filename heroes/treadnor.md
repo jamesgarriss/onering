@@ -18,6 +18,11 @@ Traits
 * [Fire-making](../generation/specialities.md)
 * [Smoking](../generation/specialities.md)
 
+[Attributes](../generation/background.md):
+* Body:  7 ()
+* Heart: 3 ()
+* Wits:  4 ()
+
 [Common Skills](../generation/common-skill-list.md): 
 * Body Skills
     * Awe - 0
