@@ -27,13 +27,13 @@ Traits
 [Common Skills](../generation/common-skill-list.md): 
 * Body Skills
     * Awe - 0
-    * Athletics - 1
+    * Athletics - 1 (F)
     * Awareness - 0
     * Explore - 3 (F)
     * Song - 1
     * Craft - 3 (F)
 * Heart Skills
-    * Inspire - 2
+    * Inspire - 2 (F)
     * Travel - 3
     * Insight - 0
     * Healing - 0
