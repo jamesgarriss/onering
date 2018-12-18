@@ -52,6 +52,11 @@ Traits
 * Short Sword - 1
 * Dagger - 1
 
+Combat Data:
+* [Stance](../generation/stance.md): Balanced
+* [Parry](../generation/damage-parry.md): 4
+* [Endurance](../generation/endurance.md): 35
+
 Wisdom: 1
 
 Valor: 2
