@@ -60,7 +60,3 @@ rich.
 * Rich adventurers fare better than their Prosperous fellows, but not excessively so. Their life on the move does not let them take full advantage of their resources, as a good proportion of their wealth will be made up of land and riches.
 
 Any special items that are acquired during an adventure, such as a magical ring, should be noted as part of the gear.
-
-## Fatigue
-
-Every piece (or set) of gear has an Encumbrance rating that represents the hindrance the item causes the hero (weight and discomfort).  The sum of all Encumbrance ratings equals the hero's Fatigue score.
