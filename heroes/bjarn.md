@@ -35,7 +35,7 @@ Traits:
     * Inspire - 1
     * Travel - 0
     * Insight - 0
-    * Healing - 3 (F)
+    * Healing - 4 (F)
     * Courtesy - 0
     * Battle - 1
 * Wit Skills
@@ -47,7 +47,7 @@ Traits:
     * Lore - 0
 
 [Weapon Skills](../generation/weapon-skill-list.md):
-* Bows - 2
+* Bows - 3
 * Long-hafted axe - 1
 * Dagger - 1
 
