@@ -52,6 +52,17 @@ Traits
 * Short Sword - 1
 * Dagger - 1
 
+
+Wisdom: 1
+
+Valor: 2
+
+Virtues
+* n/a
+
+Rewards
+* 
+
 [Languages](../generation/languages.md):
 * Common
 * Dalish
@@ -61,4 +72,20 @@ Background: Treadnor first came to Erebor 6 years ago.  He was one of Dain's sol
 
 Gear:
 * Summer Travel Gear
-* Pipe (in leather case) and pipe-weed (in leather bag)
+    * Includes flint/steel/tinder
+    * Small set of cooking implements
+* Small drum
+
+Weapons:
+* Steel mattock
+* Short sword
+* Dagger
+
+Armor:
+* Mail Huberk
+* Helm
+
+Misc:
+* Rope and grappling hook
+* Small shovel
+
