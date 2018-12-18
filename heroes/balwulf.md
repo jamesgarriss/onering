@@ -53,10 +53,9 @@ Traits
 * Dagger - 1
 
 Combat Data:
-* [Stance](../generation/stance.md): Forward
-* [Damage](../generation/damage-parry.md): 6
+* [Stance](../generation/stance.md): Aggressive
 * [Parry](../generation/damage-parry.md): 4
-* [Endurance](../generation/endurance.md): 28.
+* [Endurance](../generation/endurance.md): 28
 
 Wisdom: 2
 
