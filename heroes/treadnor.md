@@ -52,7 +52,6 @@ Traits
 * Short Sword - 1
 * Dagger - 1
 
-
 Wisdom: 1
 
 Valor: 2
@@ -61,7 +60,7 @@ Virtues
 * n/a
 
 Rewards
-* 
+* Grevious weapon (his mattock)
 
 [Languages](../generation/languages.md):
 * Common
