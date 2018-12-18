@@ -10,7 +10,7 @@ Standard of Living: [Frugal](../generation/standard-of-living.md)
 
 Cultural Blessing: [Woodcrafty](../generation/cultural-blessing.md)
 
-Calling:
+Calling: [Warden](../generation/calling.md)
 
 Traits:
 * [Herb-lore](../generation/specialities.md)
