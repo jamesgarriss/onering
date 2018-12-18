@@ -58,27 +58,24 @@ Combat Data:
 * [Endurance](../generation/endurance.md): 35
 
 Wisdom: 1
+* Virtues - n/a
 
 Valor: 2
-
-Virtues
-* n/a
-
-Rewards
-* Grevious weapon (his mattock)
+* Rewards
+    * Grevious weapon (his mattock)
 
 [Languages](../generation/languages.md):
 * Common
 * Dalish
 * Dwarvish
 
-Background: Treadnor first came to Erebor 6 years ago.  He was one of Dain's soldiers who came at Thorin's call to fight in the Battle of Five Armies.  He survived the war and chose to settle down at Erebor.  Though many Dwarves turned to mining and metal-working, Treadnor preferred the open air.  He often volunteers to be a guard and travels with the many goods that the Dwarves trade with Dale, Lake-town, and other destinations in the Wilderland.
-
 Gear:
 * Summer Travel Gear
     * Includes flint/steel/tinder
     * Small set of cooking implements
 * Small drum
+* Rope and grappling hook
+* Small shovel
 
 Weapons:
 * Steel mattock
@@ -89,7 +86,4 @@ Armor:
 * Mail Huberk
 * Helm
 
-Misc:
-* Rope and grappling hook
-* Small shovel
-
+Background: Treadnor first came to Erebor 6 years ago.  He was one of Dain's soldiers who came at Thorin's call to fight in the Battle of Five Armies.  He survived the war and chose to settle down at Erebor.  Though many Dwarves turned to mining and metal-working, Treadnor preferred the open air.  He often volunteers to be a guard and travels with the many goods that the Dwarves trade with Dale, Lake-town, and other destinations in the Wilderland.
