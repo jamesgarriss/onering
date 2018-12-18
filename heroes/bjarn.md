@@ -75,7 +75,7 @@ Gear:
 * ???
 
 Weapons:
-* Bow ???
+* Geater Bow
 * Long-hafted axe
 * Dagger
 
