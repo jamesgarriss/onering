@@ -52,7 +52,7 @@ Traits:
 * Dagger - 1
 
 Combat Data:
-* [Stance](../generation/stance.md): 
+* [Stance](../generation/stance.md): Ranged
 * [Parry](../generation/damage-parry.md): 6
 * [Endurance](../generation/endurance.md): 
 
