@@ -14,7 +14,7 @@ When a player chooses a calling, he selects 2 skill from the favored skill group
 
 ## Additional Trait
 
-Each calling gives a hero an additional, unique trait.
+Each calling gives a hero an additional, unique [trait](specialities.md).
 
 ## Scholar
 
