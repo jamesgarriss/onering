@@ -56,13 +56,13 @@ Combat Data:
 * [Parry](../generation/damage-parry.md): 6
 * [Endurance](../generation/endurance.md): 24
 
-Wisdom
-* Virtues
-    * 
+Wisdom - 2
+* [Virtues](../generation/valor-wisdom.md)
+    * Herbal Remedies - Concocting salves and remedies from herbs in Mirkwood (reduce weariness, eventually neutralize poison)
 
-Valor
+Valor - 1
 * Rewards
-    *
+    * n/a
 
 [Languages](../generation/languages.md):
 * Common
@@ -70,9 +70,14 @@ Valor
 
 Gear:
 * Summer travel gear
-    * ???
-* Instrument ???
-* ???
+    * Belt, shirt, trousers, hat
+    * Backpack
+    * Flask
+    * Purse
+    * Sleeping bag
+    * Whetstone
+    * Venison
+* Plain silver ring
 
 Weapons:
 * Geater Bow
