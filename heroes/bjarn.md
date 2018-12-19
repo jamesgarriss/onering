@@ -58,7 +58,7 @@ Combat Data:
 
 Wisdom - 2
 * [Virtues](../generation/valor-wisdom.md)
-    * Herbal Remedies - Concocting salves and remedies from herbs in Mirkwood (reduce weariness, eventually neutralize poison)
+    * Herbal Remedies
 
 Valor - 1
 * Rewards
