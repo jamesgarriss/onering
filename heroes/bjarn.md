@@ -79,6 +79,7 @@ Gear:
     * Whetstone
     * Venison
 * Plain silver ring
+* Small wood-carving set
 
 Weapons:
 * Geater Bow
