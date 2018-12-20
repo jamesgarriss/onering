@@ -13,3 +13,7 @@ A [timeline](timeline.md) of some key events in the Third Age of Middle-earth
 ## Calendar
 
 The [Shire Calendar](http://tolkiengateway.net/wiki/Shire_Calendar) will be used to keep track of the time.
+
+## Writing Style
+
+In general, players should post their moves using correct grammar, spelling, and puncutation.  As the end result of this role-playing will be a [story](../story), shortcuts, abbreviations, and emoji are not helpful.  Additionally, players should write in third-person and past tense, as this is how most fiction works are written.
