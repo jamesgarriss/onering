@@ -10,4 +10,6 @@ One such expert guide was Grimstan, a crusty, old, former-fisherman who had spen
 
 "Come over this way," encouraged Grimstan.  "See this area of the shore here?  This is where a lady from Dale found an emerald just last week!  It was the size of my thumb, I say!  A beautiful piece of stone that undoubtedly set her up for the coming year."
 
+Balwulf followed the guide excitedly, hanging on his every word. He was never more than a step behind the other human, and he thrilled on the little pieces of trivia from him.
+
 Treadnor the Dwarf grunted under his breath, not particularly believing the guide.  He had only come because the others has asked him to.  Still, it didn't hurt to look.  When the others were busy looking at the shoreline that Grimstan was pointing to, the Dwarf moved a bit further south and began to look.  He used his mattock to poke and prod at the various and rocks that lined the shore, looking to see if there were any gems among them.
