@@ -40,8 +40,8 @@ Traits:
     * Battle - 1
 * Wit Skills
     * Persuade - 0
-    * Stealth - 2
-    * Search - 0
+    * Stealth - 2 (F)
+    * Search - 0 (F)
     * Hunting - 2 (F)
     * Riddle - 1
     * Lore - 0
