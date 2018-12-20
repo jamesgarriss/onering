@@ -15,6 +15,7 @@ Calling: [Warden](../generation/callings.md)
 Traits:
 * [Herb-lore](../generation/specialities.md)
 * [Leechcraft](../generation/specialities.md)
+* [Woodwright](../generation/specialities.md)
 * [Cautious](../generation/background.md)
 * [Generous](../generation/background.md)
 
