@@ -17,3 +17,5 @@ In contrast, the Beorning, Balwulf, followed the guide excitedly, hanging on his
 The Dwarf, Treadnor, grunted under his breath, not particularly believing the guide.  He had only come because the others has asked him to.  Still, it didn't hurt to look.  When the others were busy looking at the shoreline that Grimstan was pointing to, the Dwarf moved a bit further south and began to look.  He used his mattock to poke and prod at the various and rocks that lined the shore, looking to see if there were any gems among them.
 
 The company continued to work its way south along the shore, searching carefully all the way.  Slowly the landscape became more rough.  Cattails grew along the waterfront, stunted trees dotted the landscape, and weeds and briars began to appear.  It became harder to search, and their visibility was restricted.  Despite their meticulous scouring, they didn't find any dragon treasure.
+
+Suddenly they heard a shout, "Help!  Help me!"  The sounds of someone running through the bush came from further south, an area where they had not yet explored.
