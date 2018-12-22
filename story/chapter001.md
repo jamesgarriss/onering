@@ -31,3 +31,7 @@ Bjarn placed a firm hand on the boy's shoulder. "What happened to him, boy?"
 As the boy's words tumbled out of him, they were able to make out his story.  His father was a merchant from Dale, caravanning a load of goods for trade on the other side of Mirkwood.  He hired three guards for protection, but the guards attacked his father instead.  If they hurried back with him, they could help his father.
 
 The boy grabbed Bjarn's hand in his and tried to pull him back in the direction from which he had come.
+
+Balwulf pulled his axe from his back and nodded in the boy’s direction. “Of course we’ll help. Lead on.”
+
+The Dwarf grunted what Bjarn took to be an approving grunt.
