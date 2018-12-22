@@ -35,3 +35,5 @@ The boy grabbed Bjarn's hand in his and tried to pull him back in the direction 
 Balwulf pulled his axe from his back and nodded in the boy’s direction. “Of course we’ll help. Lead on.”
 
 The Dwarf grunted what Bjarn took to be an approving grunt.
+
+Pulling on Bjarn's hand, the boy dragged them back the way he had come.  Soon they came to old path.  They followed back towards the lake, where they soon came upon a small clearing.
