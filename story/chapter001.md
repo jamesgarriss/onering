@@ -20,4 +20,6 @@ The company continued to work its way south along the shore, searching carefully
 
 Suddenly they heard a shout, "Help!  Help me!"  The sounds of someone running through the bush came from further south, an area where they had not yet explored.
 
-Balwulf hesitates for only a moment before rushing off towards the sound, not waiting to see if his party members are following.
+Balwulf hesitates for only a moment before rushing off towards the sound, not waiting to see if his party members are following.  The Dwarf took a firm grip on his mattock and followed after, leaving the healer behind.  Not wanting to be left out, Bjarn runs after the others, hoping to assist however he can.
+
+After pushing through bush for about 20 yards, a young boy suddenly burst out of the rushes ahead of them.  Upon seeing Balwulf,  Treadnor, and Bjarn he ran right towards them, waving his arms.  Tears spill down his checks as he cried out, "Help me, please!  My father, the guards, they are going to kill him!  Going to Mirkwood, but not!  He told me to run!  Help!"
