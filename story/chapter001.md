@@ -19,3 +19,5 @@ The Dwarf, Treadnor, grunted under his breath, not particularly believing the gu
 The company continued to work its way south along the shore, searching carefully all the way.  Slowly the landscape became more rough.  Cattails grew along the waterfront, stunted trees dotted the landscape, and weeds and briars began to appear.  It became harder to search, and their visibility was restricted.  Despite their meticulous scouring, they didn't find any dragon treasure.
 
 Suddenly they heard a shout, "Help!  Help me!"  The sounds of someone running through the bush came from further south, an area where they had not yet explored.
+
+Balwulf hesitates for only a moment before rushing off towards the sound, not waiting to see if his party members are following.
