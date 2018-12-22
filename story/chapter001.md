@@ -26,7 +26,7 @@ Balwulf hesitates for only a moment before rushing off towards the sound, not wa
 
 After pushing through bush for about 20 yards, a young boy suddenly burst out of the rushes ahead of them.  Upon seeing Balwulf,  Treadnor, and Bjarn he ran right towards them, waving his arms.  Tears spill down his checks as he cried out, "Help me, please!  My father, the guards, they are going to kill him!  Going to Mirkwood, but not!  He told me to run!  Help!"
 
-Bjarn placed a firm hand on the boys shoulder. "What happened to him, boy?"
+Bjarn placed a firm hand on the boy's shoulder. "What happened to him, boy?"
 
 As the boy's words tumbled out of him, they were able to make out his story.  His father was a merchant from Dale, caravanning a load of goods for trade on the other side of Mirkwood.  He hired three guards for protection, but the guards attacked his father instead.  If they hurried back with him, they could help his father.
 
