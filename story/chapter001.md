@@ -20,8 +20,14 @@ The company continued to work its way south along the shore, searching carefully
 
 Suddenly they heard a shout, "Help!  Help me!"  The sounds of someone running through the bush came from further south, an area where they had not yet explored.
 
+As the boy's words tumbled out of him, they were able to make out his story.  His father was a merchant from Dale, caravanning a load of goods for trade on the other side of Mirkwood.  He hired three guards for protection, but the guards attacked his father instead.  If they hurried back with him, they could help his father.
+
 Balwulf hesitates for only a moment before rushing off towards the sound, not waiting to see if his party members are following.  The Dwarf took a firm grip on his mattock and followed after, leaving the healer behind.  Not wanting to be left out, Bjarn runs after the others, hoping to assist however he can.
 
 After pushing through bush for about 20 yards, a young boy suddenly burst out of the rushes ahead of them.  Upon seeing Balwulf,  Treadnor, and Bjarn he ran right towards them, waving his arms.  Tears spill down his checks as he cried out, "Help me, please!  My father, the guards, they are going to kill him!  Going to Mirkwood, but not!  He told me to run!  Help!"
 
 Bjarn placed a firm hand on the boys shoulder. "What happened to him, boy?"
+
+As the boy's words tumbled out of him, they were able to make out his story.  His father was a merchant from Dale, caravanning a load of goods for trade on the other side of Mirkwood.  He hired three guards for protection, but the guards attacked his father instead.  If they hurried back with him, they could help his father.
+
+The boy grabbed Bjarn's hand in his and tried to pull him back in the direction from which he had come.
