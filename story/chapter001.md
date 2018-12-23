@@ -36,4 +36,4 @@ Balwulf pulled his axe from his back and nodded in the boy’s direction. “Of 
 
 The Dwarf grunted what Bjarn took to be an approving grunt.
 
-Pulling on Bjarn's hand, the boy dragged them back the way he had come.  Soon they came to old path.  They followed back towards the lake, where they soon came upon a small clearing.
+Pulling on Bjarn's hand, the boy dragged them back the way he had come.  Soon they came to an old path, and when they followed it down towards the lake, they came upon a small clearing.  In it a middle-aged man had his back to a tree and awkwardly, if determinedly, held a sturdy branch in his hands.  Fanned out in front on him were three other men, all with drawn swords.  One had a nasty bruise on his forehead, evidence that the branch had recently been used.
