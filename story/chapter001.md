@@ -43,3 +43,5 @@ Bjarn thought to himself, "I think I found our problem." He looked worriedly at 
 Balwulf stepped out toward the men and called out, "I don’t think you all should be here. Perhaps you should walk away."  He gripped his axe tightly by his side, but didn’t raise it. Yet.
 
 The biggest of the three men waved his free arm at Balwuf and yelled back, "Get out of here!  This is none of your business!"
+
+Balwulf cautiously took another step forward and said, "I think it is; I think it’s all of our business right now.” He glances back to make sure the other two were with him.
