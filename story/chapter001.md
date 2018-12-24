@@ -44,4 +44,8 @@ Balwulf stepped out toward the men and called out, "I don’t think you all shou
 
 The biggest of the three men waved his free arm at Balwuf and yelled back, "Get out of here!  This is none of your business!"
 
-Balwulf cautiously took another step forward and said, "I think it is; I think it’s all of our business right now.” He glances back to make sure the other two were with him.
+Balwulf cautiously took another step forward and said, "I think it is; I think it’s all of our business right now." He glanced back to make sure the other two were with him.
+
+Bjarn gave a slight nod to Balwulf, making sure his bow was handy, and Treadnor raised his mattock just enough to ensure it was in plain sight.
+
+One of the other men turned towards Balwulf and replied, "This man," he waved dismissively at the one with the branch, "cheated us back in Dale.  All we are doing is collecting on his debt."  He pointed south through the bushes and said, "His ponies have some supplies.  We'll get our fair share and leave the rest.  So take the boy and the man and back off.  You can have the rest of the ponies when we're gone."
