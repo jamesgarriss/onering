@@ -56,6 +56,7 @@ Combat Data:
 * [Stance](../generation/stance.md): Ranged
 * [Parry](../generation/damage-parry.md): 6
 * [Endurance](../generation/endurance.md): 24
+* Encumbrance: 0
 
 Wisdom - 2
 * [Virtues](../generation/valor-wisdom.md)
