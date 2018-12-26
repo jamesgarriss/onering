@@ -49,3 +49,5 @@ Balwulf cautiously took another step forward and said, "I think it is; I think i
 Bjarn gave a slight nod to Balwulf, making sure his bow was handy, and Treadnor raised his mattock just enough to ensure it was in plain sight.
 
 One of the other men turned towards Balwulf and replied, "This man," he waved dismissively at the one with the branch, "cheated us back in Dale.  All we are doing is collecting on his debt."  He pointed south through the bushes and said, "His ponies have some supplies.  We'll get our fair share and leave the rest.  So take the boy and the man and back off.  You can have the rest of the ponies when we're gone."
+
+Balwulf hesitated and then glanced back at his companions again. A moment ago he had been so sure of himself, but now he wasn’t as sure of what they should do.
