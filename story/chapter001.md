@@ -51,3 +51,7 @@ Bjarn gave a slight nod to Balwulf, making sure his bow was handy, and Treadnor 
 One of the other men turned towards Balwulf and replied, "This man," he waved dismissively at the one with the branch, "cheated us back in Dale.  All we are doing is collecting on his debt."  He pointed south through the bushes and said, "His ponies have some supplies.  We'll get our fair share and leave the rest.  So take the boy and the man and back off.  You can have the rest of the ponies when we're gone."
 
 Balwulf hesitated and then glanced back at his companions again. A moment ago he had been so sure of himself, but now he wasn’t as sure of what they should do.
+
+
+
+“What?!” protested the man with the branch.  “I stole nothing!  I cheated no one!  I am Baldor, an honest merchant from Dale, and I hired these men to guard my caravan.  I am on my way to the Woodland Hall and then through Mirkwood, and I hired them in Laketown.  You can’t give away my wares!”  His voice had turned pleading as he realized these strangers were about to give away his livlihood.
