@@ -58,5 +58,5 @@ Bjarn knew if they were to get in the way of these men they would be putting the
 
 Balwulf raised his axe to point at the man who had claimed they were cheated and said, "What proof can you offer that this man has cheated you?"
 
-
+"You have my word," he replied quickly.  "Our word.  And it’s three of our words against only one of his." His two friends nodded their agreement.
 
