@@ -1,4 +1,4 @@
 # Story
 
-[Chapter 1](chapter001.md) - Wherein There is a Chance Meeting in Middle-earth
+[Chapter 1](chapter001.md) - A Chance Meeting in Middle-earth
 
