@@ -70,7 +70,7 @@ Treadnor barked a short laugh of appreciation.
 
 Bjarn turned to the boy. "Is it true what your father says boy?"
 
-The boy ignored the Woodman and ran to help his father.  
+The boy ignored the Woodman and ran to help his father.  One of the guards turned to attack Baldor, and the other his son.
 
 
 
