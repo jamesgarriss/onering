@@ -52,6 +52,6 @@ One of the other men turned towards Balwulf and replied, "This man," he waved di
 
 Balwulf hesitated and then glanced back at his companions again. A moment ago he had been so sure of himself, but now he wasn’t as sure of what they should do.
 
+Bjarn knew if they were to get in the way of these men they would be putting themselves and the boy in danger. He spoke up, "Take only what you are owed, but leave the father and his boy alone."
 
-
-“What?!” protested the man with the branch.  “I stole nothing!  I cheated no one!  I am Baldor, an honest merchant from Dale, and I hired these men to guard my caravan.  I am on my way to the Woodland Hall and then through Mirkwood, and I hired them in Laketown.  You can’t give away my wares!”  His voice had turned pleading as he realized these strangers were about to give away his livlihood.
+“What?!” protested the man with the branch.  “I stole nothing!  I cheated no one!  I am Baldor, an honest merchant from Dale, and I hired these men to guard my caravan.  I am on my way to the Woodland Hall and then through Mirkwood, and I hired them in Laketown.  You can’t give away my wares!”  His voice had turned pleading as he realized these strangers were about to give away his livelihood.
