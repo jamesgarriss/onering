@@ -68,6 +68,10 @@ As the man turned to reply to the Beorning, Baldor hefted his cudgel, yelled "Iâ
 
 Treadnor barked a short laugh of appreciation.
 
+Bjarn turned to the boy. "Is it true what your father says boy?"
+
+The boy ignored the Woodman and ran to help his father.  
+
 
 
 
