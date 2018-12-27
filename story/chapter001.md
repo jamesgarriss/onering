@@ -60,3 +60,15 @@ Balwulf raised his axe to point at the man who had claimed they were cheated and
 
 "You have my word," he replied quickly.  "Our word.  And it’s three of our words against only one of his." His two friends nodded their agreement.
 
+“Your word,” sputtered Baldor.  “Your word?!” he screamed, his face turning red.  “You gave your word to guard my caravan!  Your word is as good as goblin scat!”
+
+“Your word,” Balwulf spoke quickly over Baldor’s sputtering, “is not proof that you have been cheated. As the three of you are working together, all three of your words are worth no more than his. Have you any proof of what he owes?”
+
+As the men turned to look at the Beorning, Baldor hefted his cudgel, yelled "I’ll give you some word!" and took a mighty swing at the one he’d already hit once. He landed a mighty blow right in the middle of his foe’s back, knocking him forward onto his hands and knees, where he gasped for breath.
+
+Treadnor barked a short laugh of appreciation.
+
+
+
+
+
