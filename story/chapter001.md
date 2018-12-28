@@ -98,4 +98,7 @@ Balwulf nodded in agreement, then turned to Treadnor. “What say you, Dwarf? Wi
 
 Treadnor grunted non-committally.  “I might want to stay here and rip their arms off.”
 
+The two remaining guards looked up to find the Dwarf scowling at them.  The one who had the wind knocked out of him stuttered, “N-n-no need.”  He crawled over to his friend, hauled him to his feet, and with a final look at Treadnor hauled him away, leaving a trail of blood.
+
+
 
