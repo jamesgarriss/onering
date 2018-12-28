@@ -72,6 +72,15 @@ Bjarn turned to the boy. "Is it true what your father says boy?"
 
 The boy ignored the Woodman and ran to help his father.  One of the guards turned to attack Baldor, and the other his son.
 
-Balwulf ran forward towards the conflict, wanting to keep the boy from the fight. He lifted his axe to defend him against the guard’s blow.  Coming to a sliding halt, Balwulf thrust the haft of his axe over the boy’s head and smartly blocked the chop of the guard’s short sword.
+Balwulf ran forward towards the conflict, wanting to keep the boy from the fight. He lifted his axe to defend him against the guard’s blow.  
 
-Bjarn swung his bow around and took a shot towards the other guard.
+Bjarn swung his bow around and took aim at the other guard.
+
+Coming to a sliding halt, Balwulf thrust the haft of his axe over the boy’s head and smartly blocked the downward chop of the guard’s short sword.
+
+To avoid any chance of friendly fire, Bjarn lowered his aim and released.  The arrow took the guard in the left foot, piercing his boot and driving into the ground.  There was a horrible crack, and the man screamed in pain, dropped to the ground, and clutched his bleeding foot.
+
+The Dwarf stalk menacingly towards the remaining guard, the larger one who had spoken first.  Seeing that both his friends were down and that Dwarf was both armed and fully armored, the man dropped his weapon and bolted into the brush.  Treadnor chuckled in amusement.
+
+
+
