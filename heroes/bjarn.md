@@ -83,7 +83,7 @@ Gear:
 * Small wood-carving set
 
 Weapons:
-* Geater Bow
+* Great Bow
 * Long-hafted axe
 * Dagger
 
