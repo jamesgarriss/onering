@@ -80,9 +80,22 @@ To avoid any chance of friendly fire, Bjarn lowered his aim and released.  The a
 
 The Dwarf stalk menacingly towards the remaining guard, the larger one who had spoken first.  Seeing that both his friends were down and that the Dwarf was both armed and fully armored, the man dropped his weapon and bolted into the brush.  Treadnor chuckled in amusement.
 
-"Shall we chase after him?", Bjarn asked.
+"Shall we chase after him?" Bjarn asked.
 
+“Nah,” replied Treadnor, “We won’t see him again.”
 
+Baldor tossed aside his branch and scooped up his son in a fierce embrace.  After a long moment he set him down and looked at the party.  “Thank you so very much!  You arrived just in time.  I couldn’t have held them off much longer.”
 
+Balwulf returned his axe to its place on his back and inclined his head slightly at the merchant. “We’re happy to help. I’m Balwulf, and my companions are Bjarn and Treadnor.”
+
+“Baldor, at your service,” he replied with a bow, “and my son is Belgo.”  He looked off into the brush.  “My ponies!” he exclaimed.  He ran off and a couple minutes later returned with four ponies leashed together and loaded down with packages, parcels, and packets.  “They are full of iron tools and toys from Dale, and I am bound for the Woodland Hall.  I have already arranged passages through the Wood-elves realm, but need guards to make it through Mirkwood.”
+
+"Perhaps we could assist you in that venture", spoke Bjarn. "There is no telling what else may try to grab at your belongings the rest of the way through Mirkwood."
+
+“You would do that?” he asked in amazement.
+
+Balwulf nodded in agreement, then turned to Treadnor. “What say you, Dwarf? Will you help?”
+
+Treadnor grunted non-committally.  “I might want to stay here and rip their arms off.”
 
 
