@@ -100,5 +100,6 @@ Treadnor grunted non-committally.  “I might want to stay here and rip their ar
 
 The two remaining guards looked up to find the Dwarf scowling at them.  The one who had the wind knocked out of him stuttered, “N-n-no need.”  He crawled over to his friend, hauled him to his feet, and with a final look at Treadnor hauled him away, leaving a trail of blood.
 
+“Three more swords for you to sell,” he laughed, kicking the weapons towards Belgo, who scooped them up.  The Dwarf looked at Balwulf, “Sure.  Why not?”
 
-
+Baldor grinned in delight, barely able to believe his good fortune.  “I will pay you in coin or goods, your choice, once we reach the Hall,” he promised.
