@@ -80,5 +80,9 @@ To avoid any chance of friendly fire, Bjarn lowered his aim and released.  The a
 
 The Dwarf stalk menacingly towards the remaining guard, the larger one who had spoken first.  Seeing that both his friends were down and that the Dwarf was both armed and fully armored, the man dropped his weapon and bolted into the brush.  Treadnor chuckled in amusement.
 
+"Shall we chase after him?", Bjarn asked.
+
+
+
 
 
