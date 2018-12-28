@@ -72,7 +72,6 @@ Bjarn turned to the boy. "Is it true what your father says boy?"
 
 The boy ignored the Woodman and ran to help his father.  One of the guards turned to attack Baldor, and the other his son.
 
+Balwulf ran forward towards the conflict, wanting to keep the boy from the fight. He lifted his axe to defend him against the guard’s blow.  Coming to a sliding halt, Balwulf thrust the haft of his axe over the boy’s head and smartly blocked the chop of the guard’s short sword.
 
-
-
-
+Bjarn swung his bow around and took a shot towards the other guard.
