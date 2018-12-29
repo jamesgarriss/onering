@@ -103,3 +103,15 @@ The two remaining guards looked up to find the Dwarf scowling at them.  The one 
 “Three more swords for you to sell,” he laughed, kicking the weapons towards Belgo, who scooped them up.  The Dwarf looked at Balwulf, “Sure.  Why not?”
 
 Baldor grinned in delight, barely able to believe his good fortune.  “I will pay you in coin or goods, your choice, once we reach the Hall,” he promised.
+
+They should hands all around, shouldered their packs, and followed Baldor away from the lake.  They soon encountered a path that headed westward towards Mirkwood.  
+
+"This is the way!" said Baldor with a smile.  Evidently he had traveled this path before.  
+
+The path soon merged with the Forest River, and they walked along its banks until night fell.  They camped by the river, amply supplied with food and bedding from the ponies.  The next morning, as they were breaking camp, they saw a trio of rafts floating down the river towards them.  Three figured cloaked in green were guiding them with long poles, and Baldor gave a cry of welcome to them.  They pushed the rafts ashore and greeted Baldor and friends warmly (though perhaps the Dwarf a bit stiffly).  Clearly the merchant was well-known to them.  They laughed at the sight of Belgo and gave him a small gift wrapped in leaves.  
+
+The ponies were quickly unloaded, and their contents stored on the rafts.  The ponies themselves, however, were less happy about this plan and refused to board until one of the Evles whispered quietly in their ears.  After that, the ponies moved easily on board, one to each raft, and remained standing quietly in the middle.  Once everyone was on board, the Elves pushed their rafts back into the river and began the slow task of poling them upstream.
+
+For three days they had little to do but eat, sleep, and lounge on the rafts, their legs hanging over the sides in the water.  Eventually they reached the forest.  The immense trees were so tall that they easily covered the river, leaving the travelers to feel like they were in a long, dark tunnel.  At one point, the banks of the rivers rose sharply and became stoney.  Out of a break in the rock there flowed a stream, and the Elves smartly guided their rafts up the stream.  The walls of the shore grew higher and higher until the rafts were in a deep, rocky canyon.  They pushed past a raised portcullis, and suddenly they found themselves in the caves of the Elven-king.
+
+"Welcome to halls of King Thranduil," said one of the Elves with a bow.
