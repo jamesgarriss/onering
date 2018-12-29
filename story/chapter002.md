@@ -2,5 +2,14 @@
 
 Their time in the Elven Halls was both short and boring.  As the Elves neither knew them nor trusted them, Balwulf, Bjorn, and Treadnor--especially Treadnor--were not permitted to leave the cellars.
 
-With an apologetic shrug, Baldor said, "Perhaps it's best if you remain here and guard the supplies, 'till we can leave again."
+With an apologetic shrug, Baldor said, "Perhaps it's best if you remain here and guard the supplies, 'till we can leave again.  I'll send down some food and wine."
 
+For two days they sat around, talking quietly and occasionally sleeping, all under the watchful eye of the Butler.  It wasn't all bad.  True to his word, Baldor sent down several loaves of the most delicious bread, two small jars of jam, and a fine bottle of Elvish wine, a light and fruity variety that none of them had ever tasted before.
+
+"Makes that ale they drink in Lake-town taste rather like pig-swill," decided Treadnor, as he helped himself to another drink.
+
+Finally, Baldor and Belgo returned in the company of the elves from the rafts.  "I trust your stay was acceptable," smiled the merchant.  
+
+The Elves escorted them all, along with the ponies and their wares, out of the cellars along a secret path.  It was long, dark, twisted, and utterly confusing to Balwulf and Bjorn, neither of whom had spent much time underground.  Eventually they came out near the Elf-path, the roadway that the Elves kept open, as much as they could.  The trees all around were beech, and sunlight filtered down through their leaves to light their way with a beautiful, golden light.
+
+"Here is your way," said one of the Elves, pointing in a westerly direction.  "If you pass through the forest, you will reach the Forest Gate and look upon the Anduin Vales.  Turning south, you will find yourself home again."  This last comment was direct at Balwulf.
