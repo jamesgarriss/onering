@@ -21,3 +21,6 @@ At Baldor's nod of agreement, the Elves began to march, setting a hard pace.  By
 Huddled around the small campfire, Baldor, Belgo, and the others slept fittfully and awoke often.  But whenever they looked around, they saw one of the Elves, alert and watchful.
 
 In the mornin, while the light was still more dark than dim and steam rose from the waters of the stream, the Elves gave a sharp whistle.  Another Elf appeared from across the stream.  They tossed a rope to him, and he tossed another back; in short order a simple rope bridge spanned the stream.  The ponies were unloaded, and the Elves nimbly walked back and forth with their supplies.  Using lead ropes and quiet word, the ponies were encouraged to swim across, and they seemed to suffer no ill effects from the water.
+
+"Your turn," smiled the Elves, looking at the travelers.
+
