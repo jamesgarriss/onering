@@ -12,4 +12,12 @@ Finally, Baldor and Belgo returned in the company of the elves from the rafts.  
 
 The Elves escorted them all, along with the ponies and their wares, out of the cellars along a secret path.  It was long, dark, twisted, and utterly confusing to Balwulf and Bjorn, neither of whom had spent much time underground.  Eventually they came out near the Elf-path, the roadway that the Elves kept open, as much as they could.  The trees all around were beech, and sunlight filtered down through their leaves to light their way with a beautiful, golden light.
 
-"Here is your way," said one of the Elves, pointing in a westerly direction.  "If you pass through the forest, you will reach the Forest Gate and look upon the Anduin Vales.  Turning south, you will find yourself home again."  This last comment was direct at Balwulf.
+"Here is your way," said one of the Elves, pointing in a westerly direction.  "If you pass through the forest, you will reach the Forest Gate and look upon the Anduin Vales.  Turning south, you will find yourself home again."  This last comment was direct at Balwulf.  "We will take you past the Enchanted Stream, but no further."
+
+At Baldor's nod of agreement, the Elves began to march, setting a hard pace.  By nightfall, they reach the stream.
+
+"We will camp here for the night and depart in the morning," said the Elves.  "Rest well, friends, and we will guard your sleep."  
+
+Huddled around the small campfire, Baldor, Belgo, and the others slept fittfully and awoke often.  But whenever they looked around, they saw one of the Elves, alert and watchful.
+
+In the mornin, while the light was still more dark than dim and steam rose from the waters of the stream, the Elves gave a sharp whiste.
