@@ -24,3 +24,6 @@ In the mornin, while the light was still more dark than dim and steam rose from 
 
 "Your turn," smiled the Elves, looking at the travelers.
 
+Balwulf looked dubiously at the shaky rope bridge and then at his own large bulk. "Are you certain I'm not going to...well...sink your whole bridge?"
+
+The Elves just laughed.  "Fat little spider, this web will hold you!  We don't want Father Dwarf's beard wagging in the water!"  And they laughed again.
