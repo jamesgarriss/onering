@@ -27,3 +27,5 @@ In the mornin, while the light was still more dark than dim and steam rose from 
 Balwulf looked dubiously at the shaky rope bridge and then at his own large bulk. "Are you certain I'm not going to...well...sink your whole bridge?"
 
 The Elves just laughed.  "Fat little spider, this web will hold you!  We don't want Father Dwarf's beard wagging in the water!"  And they laughed again.
+
+Balwulf plucked up his courage and gave the ropes a try.  To his surprise, he found them to be firm and stable.  By the time he was half way across, he  was walking easily without even using the guide rope.  He was soon on the other side, looking back.
