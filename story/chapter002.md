@@ -11,6 +11,7 @@ For two days they sat around, talking quietly and occasionally sleeping, all und
 "Makes that ale they drink in Lake-town taste rather like pig-swill," decided Treadnor, as he helped himself to another drink.
 
 Finally, Baldor and Belgo returned in the company of the elves from the rafts.  "I trust your stay was acceptable," smiled the merchant.  
+
 21 Rethe, TA 2947
 
 The Elves escorted them all, along with the ponies and their wares, out of the cellars along a secret path.  It was long, dark, twisted, and utterly confusing to Balwulf and Bjorn, neither of whom had spent much time underground.  Eventually they came out near the Elf-path, the roadway that the Elves kept open, as much as they could.  The trees all around were beech, and sunlight filtered down through their leaves to light their way with a beautiful, golden light.
