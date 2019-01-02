@@ -108,7 +108,11 @@ They should hands all around, shouldered their packs, and followed Baldor away f
 
 "This is the way!" said Baldor with a smile.  Evidently he had traveled this path before.  
 
-The path soon merged with the Forest River, and they walked along its banks until night fell.  They camped by the river, amply supplied with food and bedding from the ponies.  The next morning, as they were breaking camp, they saw a trio of rafts floating down the river towards them.  Three figured cloaked in green were guiding them with long poles, and Baldor gave a cry of welcome to them.  They pushed the rafts ashore and greeted Baldor and friends warmly (though perhaps the Dwarf a bit stiffly).  Clearly the merchant was well-known to them.  They laughed at the sight of Belgo and gave him a small gift wrapped in leaves.  
+The path soon merged with the Forest River, and they walked along its banks until night fell.  They camped by the river, amply supplied with food and bedding from the ponies.  
+
+16 Rethe, TA 2947
+
+The next morning, as they were breaking camp, they saw a trio of rafts floating down the river towards them.  Three figured cloaked in green were guiding them with long poles, and Baldor gave a cry of welcome to them.  They pushed the rafts ashore and greeted Baldor and friends warmly (though perhaps the Dwarf a bit stiffly).  Clearly the merchant was well-known to them.  They laughed at the sight of Belgo and gave him a small gift wrapped in leaves.  
 
 The ponies were quickly unloaded, and their contents stored on the rafts.  The ponies themselves, however, were less happy about this plan and refused to board until one of the Evles whispered quietly in their ears.  After that, the ponies moved easily on board, one to each raft, and remained standing quietly in the middle.  Once everyone was on board, the Elves pushed their rafts back into the river and began the slow task of poling them upstream.
 
