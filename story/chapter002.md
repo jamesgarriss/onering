@@ -48,4 +48,6 @@ For three days the company had marched their way through Mirkwood.  They woke ea
 
 Late one afternoon, Bjarn, who was on point, raised a fist over his head, the signal they had agreed upon to stop and be quiet.  As Belgo went back to lend a hand with the ponies, Baldor and Treadnor quietly joined Bjarn, who simply pointed down the path.  Balwulf immediately saw the problem:  Two strands of a thin, white rope crossed the path 15 yards in front of them.  Treadnor merely squinted. 
 
-Bjarn took a closer look at the chords, trying to follow them to see where they led.  Unfortunatley, the light was too dim, and from where he stood, Bjarn couldn't tell where the chords went.
+Bjarn took a closer look at the chords, trying to follow them to see where they led.  Unfortunatley, the light was too dim, and from where he stood, Bjarn couldn't tell where the chords went.  Balwulf approached the ropes to determine why they were there and if putting pressure on them would harm anything.  The ropes crossed the path in an "X" pattern.  In the center, they were about three feet off the ground, so while Belgo could probably get under them easily, the others would have to bend over.  The ponies would need help.  As for why, neither Balwulf nor Bjarn could not discern any reason for rope to be here.
+
+"Don't touch that!," whispered Treadnor urgently.  "That's the start of a spider web!  It'll stick to your skin something fierce!"
