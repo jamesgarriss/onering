@@ -47,3 +47,5 @@ Baldor raised his eyes at that, but didn't respond except to begin loading the p
 For three days the company had marched their way through Mirkwood.  They woke early, walked fast, and camped right next to the path.  The beeches had gradually faded, the light had dimmed, and the oppressiveness had grown.  Still, nothing had hindered their progress, and they had seen neither man nor beast.
 
 Late one afternoon, Bjarn, who was on point, raised a fist over his head, the signal they had agreed upon to stop and be quiet.  As Belgo went back to lend a hand with the ponies, Baldor and Treadnor quietly joined Bjarn, who simply pointed down the path.  Balwulf immediately saw the problem:  Two strands of a thin, white rope crossed the path 15 yards in front of them.  Treadnor merely squinted. 
+
+Bjarn took a closer look at the chords, trying to follow them to see where they led.  Unfortunatley, the light was too dim, and from where he stood, Bjarn couldn't tell where the chords went.
