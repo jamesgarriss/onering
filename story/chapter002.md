@@ -59,3 +59,7 @@ Bjarn took a closer look at the chords, trying to follow them to see where they 
 Balwulf glanced at Bjarn. “Well? Any ideas?”
 
 "I do," interjected Treadnor.  "Be somewhere else before we make camp tonight."
+
+"Let's get going then." Balwulf motioned for the merchant and his son to go through first. "Be careful; don't touch that web."
+
+Treadnor went back to grab the lead of the first pony, while Baldor and Belgo came forward.  The father bent over double and shuffled under, while the son merely had to tilt his head.  They kept an eye forward.
