@@ -63,3 +63,45 @@ Balwulf glanced at Bjarn. “Well? Any ideas?”
 "Let's get going then." Balwulf motioned for the merchant and his son to go through first. "Be careful; don't touch that web."
 
 Treadnor went back to grab the lead of the first pony, while Baldor and Belgo came forward.  The father bent over double and shuffled under, while the son merely had to tilt his head.  They kept an eye forward.
+
+Bjarn squinted at the web one last time before bowing to go beneath the threads.
+
+"Alright, Treadnor," Balwulf said. "How are we going to get these ponies through?"
+
+The Dwarf led the ponies forward.  "Branches?" he relied. "Use them to hold the rope up high."
+
+Bjarn piped in, "If we move the webbing, won't the spiders feel it?"
+
+"Probably, but if we stay here, they will definitely notice us."
+
+"Why don't we have someone hold them while we cut them and tie them off to some trees?  We just need to keep them steady while we do it. "
+
+"Good idea," agreed the Dwarf, "But you can’t touch the webs.  Too sticky."
+
+Pointing to the web, Bjarn pitched an idea, "I can make an oil that will allow us to handle the webbing without getting stuck to it. I'll need some help finding the right herbs though."
+
+"Excellent." Balwulf agreed. "What do you need to find?"
+
+"Asphodel and aeglos," he replied.  "I have some of the former in my kit, but we'd need to find Aeglos.  It's a tall, thorny plant with a white, sweet-smelling flower.  I need its roots."
+
+"Do you have anything that looks similar to it or a drawing of any sort?" he asked. "My Hobbit can find such a thing, but only if he knows what he is looking for."
+
+"No, I don't" replied the Woodsman.  "We'll just have to do it ourselves."  He walked off to the side of the path, a short distance from the webs and began searching for the plant, careful to keep an eye out for any more webs in the area.
+
+The Beorning nodded in agreement and started in the opposite direction of Balwulf to search.
+
+As they left the path, the merchant hissed in protest.  "The Elves!  They said never to leave the path!"
+
+Bjarn glanced towards the merchant. "Well, the Elves aren't here to help, are they?"
+
+Baldor's eyes bulged slightly, but he didn't reply.   Not much he could do but continue to look for spiders.
+
+As he searched, Balwulf felt rather like a bee in the wrong hive.  The plants here all looked alike, and none looked like Bjarn's description.  Bjarn, on the other hand, felt perfectly at home.  Having spent endless hours in southern part of the forest searching for herbs, he was able to relax while quickly searching for aeglos.
+
+"Dad!" called Belgo softly.
+
+His father gasped and said, "The webs!  They are moving!"
+
+Hearing the child, Bjarn reached for his bow and charged back to the group, as did Balwulf.
+
+From the north side of the path a chittering sound could be heard, like kids clacking small sticks together.  Clearly more than one spider was coming, though they could not yet be seen for the gloom.
