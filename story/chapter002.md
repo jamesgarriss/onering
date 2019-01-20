@@ -104,4 +104,16 @@ His father gasped and said, "The webs!  They are moving!"
 
 Hearing the child, Bjarn reached for his bow and charged back to the group, as did Balwulf.
 
-From the north side of the path a chittering sound could be heard, like kids clacking small sticks together.  Clearly more than one spider was coming, though they could not yet be seen for the gloom.
+From the north side of the path a chittering sound could be heard, like kids clacking small sticks together.  Clearly more than one spider was coming though the gloom.  Soon the spiders were close enough to be seen.  Four were coming on the web, and four more along the ground.  The spiders were huge, the size of a big dog!  With the stroke of his mattock, Treadnor cut the webs over the path, dropping the first group of spiders onto the second and buying them a few seconds of space.
+
+"Get the ponies!" he yelled to Baldor.
+
+The merchant and his son grabbed a couple ponies each and began moving further down the path.  The spiders, having recovered, were nearly to the remaining three.
+
+Balwulf pulled his axe from his back and yelled at the merchant and his son to run. He stood his ground against the spiders and prepared to swing his axe as soon as they were in range.  Treadnor stepped up beside Balwulf and then grinned fiercely at the Beorning.  Positioning himself behind the other two, Bjarn drew his bow and scanned the trees to find thier most immediate foe.  With an arrow locked in steady, he fired swiftly at the nearest arachnid nemesis.  Bjarn's first shot missed his target and went sailing off into the forest.  As the spiders drew close, he tried to nock a second arrow to his bow but missed and dropped both the bow and the arrow!
+
+Two of the spiders came at Balwulf, but he was the quicker to strike, though his axe gave only a glancing blow off the side of one spider.  Treadnor planted his feet solidly and two more of the spiders came at him.  He calmly side-stepped the first spider's attack, inserting it between himself and the second. Seeing a spider charging him, Bjarn left his bow on the ground and grabbed his long-hafted axe instead.
+
+A third spider joined the attack against Balwulf, who suddenly found himself on the defensive.  He evaded one attack, but the other spider jumped suddenly and stung him in the chest, right over his heart.  Fortunately his armor blocked the stinger.  Treadnor also faced three spiders.  The first tried to sting his leg, but the stocky Dwarf stepped one side and swung this mattock with all this might.  The spider literally exploded and body parts scattered all over the forest ground.  The second spider, timed his attack perfectly, stinging Treadnor in the other leg.  The third missed.  Bjarn attacked quickly, but mis-judged the height of his eight-footed opponent.  He swing went right over and left him unbalanced.  The spider jumped and stung Bjarn right in the middle of his back.  It was a burning pain, like a spider bite from a normal spider, only a hundred times more.
+
+Balwulf took charge of his fight again, quickly jumping in and smacking one of his spiders.  Treadnor's remaining spiders both tried to sting him, but he neatly avoided both and with one counter-stroke killed one and wounded the other.  Bjarn traded missing swipes with one of his spiders, while side-stepping the other.
