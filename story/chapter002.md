@@ -127,3 +127,9 @@ Bjarn, groaning from the pain in his back, assessed the damage to the party.  Ba
 "What about you, Bjarn?" Balwulf asked, "How badly did it hit you?"
 
 "I got one pretty good in my back. My leggs feel tingly. Would you mind taking a look at it and telling me how bad it is?"
+
+Balwulf obligingly checked on the mark for him. "You've got a large sting back here, like a raised welt. Doesn't look too bad."
+
+Treadnor, arms resting on his mattock, asked, "So where's the merchant and his boy?"
+
+The others looked down the path and realized they couldn't see them.
