@@ -132,4 +132,14 @@ Balwulf obligingly checked on the mark for him. "You've got a large sting back h
 
 Treadnor, arms resting on his mattock, asked, "So where's the merchant and his boy?"
 
-The others looked down the path and realized they couldn't see them.
+The others looked down the path and realized they couldn't see them.  
+
+Balwulf called out down the road, "Baldor! The spiders have fled; it's safe now." He waited a moment to see if the pair returned, but there was no answer.  "Best we go find our cargo before it's lost then." Balwulf lifted his axe again and began trotting down the path in the direction the merchant had gone, keeping an eye out for any sign of them leaving the path.
+
+Fearing the worst, Bjarn hurried along as well. "Surely they could not have gone far. "
+
+They had not gotten far after all.  A couple minutes of walking caught them up to the merchant, his son, and ponies, who were waiting anxiously by the side of the path.  They were visibly relieved when the three found them.  After a quick recount of the battle--particularly of the spider that Treadnor splattered--and they were off, looking to get as far away from this part of the forest as possible before night came.
+
+28 Rethe, TA 2947
+
+A few days later, the company was looking for a place to camp as the evening drew near.  Balwulf was looking at a possible location near the edge of the path, when he saw a strange indention in the mud.  Dropping down onto one knee he found the imprint of a large animal.
