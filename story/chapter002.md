@@ -143,3 +143,15 @@ They had not gotten far after all.  A couple minutes of walking caught them up t
 28 Rethe, TA 2947
 
 A few days later, the company was looking for a place to camp as the evening drew near.  Balwulf was looking at a possible location near the edge of the path, when he saw a strange indention in the mud.  Dropping down onto one knee he found the imprint of a large animal.
+
+Balwulf wanted to identify the paw print, so he got down and felt the depression with the tips of his fingers.  He put his nose down and smelled it.  Looking at the others, he said, "No doubt.  It's a wolf's paw print.  But look at the size of that thing.  It must be as big as a grizzly*!"  He paused and gave them the really bad news.  "And it's fresh.  This thing is nearby!  We shouldn’t camp here, in case it comes back."
+
+"I know how to stop this wolf," piped up Belgo.  He knelt down in the dirt next to Balwulf and removed something from around his neck.  "This is a talisman that the Elves gave me," he said, holding it up.  It was a small, wooden carving of a leaf on a leather cord.  He carefully set it down into the middle of the paw print.
+
+Balwulf examined the small carving without touching it and asked, "What does it do?"
+
+"It protects me," he replied, with all the openness of a young boy.  He put it back around his neck and tucked it into his shirt.  "It's Elven magic," he stage-whispered.
+
+Treadnor snorted.  He ignored the boy's hurt look and continued, "We need to move.  Don't want to be anywhere around here come nightfall."
+
+Despite doubling the watch--or maybe because it--they didn't see the wolf that night.  Or maybe the talisman worked.
