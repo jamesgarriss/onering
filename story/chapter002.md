@@ -155,3 +155,5 @@ Balwulf examined the small carving without touching it and asked, "What does it 
 Treadnor snorted.  He ignored the boy's hurt look and continued, "We need to move.  Don't want to be anywhere around here come nightfall."
 
 Despite doubling the watch--or maybe because it--they didn't see the wolf that night.  Or maybe the talisman worked.
+
+While preparing to move on that morning, Balwulf checked all around the edges of their campsite to see if he could spot signs of the wolf in the area, but he found nothing.
